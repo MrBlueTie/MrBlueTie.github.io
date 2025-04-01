@@ -61,13 +61,13 @@
 			}
 		},
 		{
-			"name": "UM06 Enabler Abandoned Shield",
+			"name": "UM06 Enabler",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/219_UM06 Enabler Abandoned Shield.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/219_UM06 Enabler.png"
 			}
 		},
 		{
@@ -271,13 +271,13 @@
 			}
 		},
 		{
-			"name": "RM01 RU Companion Chakram",
+			"name": "RM01 RU Companion (COLOUR PIE)Chakram",
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_RM01 RU Companion Chakram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_RM01 RU Companion (COLOUR PIE)Chakram.png"
 			}
 		},
 		{
@@ -461,13 +461,13 @@
 			}
 		},
 		{
-			"name": "CR05 3 MV Speedy Slayer",
+			"name": "CR05 3 MV",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/119_CR05 3 MV Speedy Slayer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/119_CR05 3 MV.png"
 			}
 		},
 		{
@@ -791,13 +791,13 @@
 			}
 		},
 		{
-			"name": "UB07 Prepared Mercenery",
+			"name": "UB07",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human  Warrior ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/107_UB07 Prepared Mercenery.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/107_UB07.png"
 			}
 		},
 		{
@@ -824,7 +824,7 @@
 			"name": "CB07 4 OR 5 MV Exploiter of Weakness",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Warrior ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/84_CB07 4 OR 5 MV Exploiter of Weakness.png"
@@ -851,13 +851,13 @@
 			}
 		},
 		{
-			"name": "UA04 Noncreature Spiked Mace (NEW ART)",
+			"name": "UA04 Noncreature Spiked Mace",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_UA04 Noncreature Spiked Mace (NEW ART).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_UA04 Noncreature Spiked Mace.png"
 			}
 		},
 		{
@@ -1023,7 +1023,7 @@
 		{
 			"name": "UU10 Noncreature Contender's Arrival",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
@@ -1151,13 +1151,13 @@
 			}
 		},
 		{
-			"name": "UW01 Dual Vaulter",
+			"name": "UW01",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_UW01 Dual Vaulter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_UW01.png"
 			}
 		},
 		{
@@ -1191,13 +1191,13 @@
 			}
 		},
 		{
-			"name": "CW09 4 MV Decorated Noble(EVALUATE)",
+			"name": "CW09 4 MV Cappennan Retaliater",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Advisor ",
+			"type": "Creature — Angel ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_CW09 4 MV Decorated Noble(EVALUATE).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_CW09 4 MV Cappennan Retaliater.png"
 			}
 		},
 		{
@@ -1261,13 +1261,13 @@
 			}
 		},
 		{
-			"name": "UU05 Opiate Professor",
+			"name": "UU05 Opiate Professor (ERROR)",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Advisor ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_UU05 Opiate Professor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_UU05 Opiate Professor (ERROR).png"
 			}
 		},
 		{
@@ -1301,13 +1301,13 @@
 			}
 		},
 		{
-			"name": "CA05 Manalith+ abilityBoosting Potation",
+			"name": "CA05 Manalith+ abilityBoosting Potation(NEWART)",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Halo ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/245_CA05 Manalith+ abilityBoosting Potation.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/245_CA05 Manalith+ abilityBoosting Potation(NEWART).png"
 			}
 		},
 		{
@@ -1361,13 +1361,13 @@
 			}
 		},
 		{
-			"name": "CB08 5 OR 6 MV (REWORK)",
+			"name": "CB08 5 OR 6 MV",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/85_CB08 5 OR 6 MV (REWORK).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/85_CB08 5 OR 6 MV.png"
 			}
 		},
 		{
@@ -1481,13 +1481,13 @@
 			}
 		},
 		{
-			"name": "UG04 Nahua Survivalist (REaRT)",
+			"name": "UG04",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Soldier ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/182_UG04 Nahua Survivalist (REaRT).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/182_UG04.png"
 			}
 		},
 		{
@@ -1911,13 +1911,13 @@
 			}
 		},
 		{
-			"name": "CB04 3 MV(RARITY)",
+			"name": "CB04 3 MV Travelling Eternal",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Jackal Warrior ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/81_CB04 3 MV(RARITY).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/81_CB04 3 MV Travelling Eternal.png"
 			}
 		},
 		{
@@ -2151,20 +2151,20 @@
 			}
 		},
 		{
-			"name": "CG10 6 OR 7 MV",
+			"name": "CG10 6 OR 7 MV Tusked",
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Human Elk Warrior ",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_CG10 6 OR 7 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_CG10 6 OR 7 MV Tusked.png"
 			}
 		},
 		{
 			"name": "CU04 3 MV",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/45_CU04 3 MV.png"
@@ -2184,7 +2184,7 @@
 			"name": "CU06 4 MV",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Goblin Warrior ",
+			"type": "Creature — Beast Warrior ",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/47_CU06 4 MV.png"
@@ -2211,13 +2211,13 @@
 			}
 		},
 		{
-			"name": "CW08 4 MV Arena",
+			"name": "CW08 4 MV Arena Stylist",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/11_CW08 4 MV Arena.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/11_CW08 4 MV Arena Stylist.png"
 			}
 		},
 		{
@@ -2321,13 +2321,13 @@
 			}
 		},
 		{
-			"name": "CW06 MV Stonechilled Combatant",
+			"name": "CW06 MV",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_CW06 MV Stonechilled Combatant.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_CW06 MV.png"
 			}
 		},
 		{
@@ -2434,7 +2434,7 @@
 			"name": "MW01 1 Ajani",
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Cat Warrior ",
+			"type": "Legendary Creature — Ajani ",
 			"collector_number": "193",
 			"back": {
 				"name": "",
@@ -2658,13 +2658,13 @@
 			}
 		},
 		{
-			"name": "UA07 Uncommon Land Cycle",
+			"name": "UA07 Uncommon Land Cycle(WHITECLIFF)",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_UA07 Uncommon Land Cycle.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_UA07 Uncommon Land Cycle(WHITECLIFF).png"
 			}
 		},
 		{
@@ -2678,23 +2678,23 @@
 			}
 		},
 		{
-			"name": "UA09 Uncommon Land Cycle",
+			"name": "UA09 Uncommon Land Cycle(CHIKYU)",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_UA09 Uncommon Land Cycle.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_UA09 Uncommon Land Cycle(CHIKYU).png"
 			}
 		},
 		{
-			"name": "UA10 Uncommon Land Cycle",
+			"name": "UA10 Uncommon Land Cycle(NYLIN)",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_UA10 Uncommon Land Cycle.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_UA10 Uncommon Land Cycle(NYLIN).png"
 			}
 		},
 		{
@@ -2745,7 +2745,7 @@
 2 RM01 WB Companion
 2 RM01 WG Companion
 2 RM01 WR Companion
-2 RM01 RU Companion Chakram
+2 RM01 RU Companion (COLOUR PIE)Chakram
 2 RM01 UB Companion
 2 RM01 RG companion
 2 RM01 WU Companion Trident
@@ -2825,7 +2825,7 @@
 9 UM04 Enabler
 9 UM03 Enabler Screeching Coyote
 9 UM18 Payoff Narcotic Manufacturer
-9 UM06 Enabler Abandoned Shield
+9 UM06 Enabler
 9 UM16 Payoff Patient Battler
 9 UM13 Enabler Instill Fear
 9 UM14 Payoff Number-1 Follower
@@ -2858,10 +2858,10 @@
 9 UB03 Ruthless Lanista
 9 UB02 Noxious Slugger
 9 UB05 Sewer Dwelling Hoarder
-9 UB07 Prepared Mercenery
+9 UB07
 9 UB11 Noncreature Stadium Morgue
 9 UB13 Noncreature Merciless Execution
-9 UA04 Noncreature Spiked Mace (NEW ART)
+9 UA04 Noncreature Spiked Mace
 9 UW03 Lanista of Style
 9 UW09 Armour Donor
 9 UW05 Narcissistic Fighter
@@ -2872,7 +2872,7 @@
 9 UW06 Quick Learner
 9 UW10 Scroll Gatherer
 9 UW04 Library Abettor
-9 UW01 Dual Vaulter
+9 UW01
 9 UW14 Noncreature Diverse Immaculacy
 9 UW12 Noncreature Emporer's Lounge
 9 UU08 Noncreature Arena's Atmoshpere
@@ -2880,7 +2880,7 @@
 9 UU04 Odds maker
 9 UU07 Vigilant Gargoyle
 9 UU14 Noncreature Royal Lathargy(REWORK)
-9 UU05 Opiate Professor
+9 UU05 Opiate Professor (ERROR)
 9 UU06
 9 UA03
 9 UB01 Necrosis Tanker
@@ -2892,7 +2892,7 @@
 9 UR05 Odd's Favoured
 9 UR13 Noncreature Lucky Arrow
 9 UR02 Crowd Side Bookie
-9 UG04 Nahua Survivalist (REaRT)
+9 UG04
 9 UG14 Noncreature Gear Affix
 9 UW08 Unprepared Pugilist
 9 UG03 Mentor of Balance
@@ -2917,10 +2917,10 @@
 9 UR10 Noncreature Fiery Lunge
 9 UR08 Noncreature Wanna Bet on It
 9 UA06 Uncommon Land Cycle(INNISTRAD)
-9 UA07 Uncommon Land Cycle
+9 UA07 Uncommon Land Cycle(WHITECLIFF)
 9 UA08 Uncommon Land Cycle
-9 UA09 Uncommon Land Cycle
-9 UA10 Uncommon Land Cycle
+9 UA09 Uncommon Land Cycle(CHIKYU)
+9 UA10 Uncommon Land Cycle(NYLIN)
 [CommonSlot(7)]
 30 CR12 Rummaging/impulsive draw Awesome Play
 30 CB03 2 MV Fan Favourite
@@ -2931,7 +2931,7 @@
 30 CR10 Direct damage (deals 2) Intimidating Stab
 30 CR02 2 MV Confident Chalk
 30 CR01 1 OR 2 MV Audacious Gladiator
-30 CR05 3 MV Speedy Slayer
+30 CR05 3 MV
 30 CR08 5 MV Combat Lanista
 30 CR07 4 OR 5 MV Groyv, Hulking Combatant CHECKKK
 30 CU10 Counterspell Anatomy Blast
@@ -2960,11 +2960,11 @@
 30 CW12 Combat-related removal Distraction Strategy
 30 Forest
 30 CW13 Banishing Light Elspeth's Condemnation
-30 CW09 4 MV Decorated Noble(EVALUATE)
+30 CW09 4 MV Cappennan Retaliater
 30 CU01 2 MV Capennan Importer(NEW ART)
-30 CA05 Manalith+ abilityBoosting Potation
+30 CA05 Manalith+ abilityBoosting Potation(NEWART)
 30 CB05 3 MV Dockside Poisoner
-30 CB08 5 OR 6 MV (REWORK)
+30 CB08 5 OR 6 MV
 30 CB14 Unconditional removal Impose Fear
 30 CR04 3 MV Pre-Emptive Duelist
 30 CR15 Direct damage (five mana, 6 damage) Winning Punch
@@ -2984,7 +2984,7 @@
 30 CU13 (sideline)
 30 CU14 Top or bottom spell
 30 CU09 Protective instant(Battle Reflexes
-30 CB04 3 MV(RARITY)
+30 CB04 3 MV Travelling Eternal
 30 CB06 4 MV
 30 CB13 Coercion+ Mind Games
 30 CR03 2 MV (Flare)
@@ -2997,15 +2997,15 @@
 30 CA04 Removal
 30 CA06 Land fixing Sponsors Lounge
 30 CG09 6 MV Sweeping Buckaroo
-30 CG10 6 OR 7 MV
+30 CG10 6 OR 7 MV Tusked
 30 CU04 3 MV
 30 CU05 3 MV
 30 CU06 4 MV
 30 CU15 Modal spell Brazen Barter
-30 CW08 4 MV Arena
+30 CW08 4 MV Arena Stylist
 30 CB09 6 OR 7 MV Halo Reverser
 30 CW11 6 OR 7 MV
-30 CW06 MV Stonechilled Combatant
+30 CW06 MV
 30 CR13 Modal Shatter
 30 CB15 Slightly overcosted removal Finish Him
 [WildcardSlot(2)]
@@ -3014,7 +3014,7 @@
 10 UM04 Enabler
 10 UM03 Enabler Screeching Coyote
 10 UM18 Payoff Narcotic Manufacturer
-10 UM06 Enabler Abandoned Shield
+10 UM06 Enabler
 10 UM16 Payoff Patient Battler
 10 UM13 Enabler Instill Fear
 10 UM14 Payoff Number-1 Follower
@@ -3034,7 +3034,7 @@
 10 RM01 WB Companion
 10 RM01 WG Companion
 10 RM01 WR Companion
-10 RM01 RU Companion Chakram
+10 RM01 RU Companion (COLOUR PIE)Chakram
 10 RM01 UB Companion
 10 RM01 RG companion
 10 RM01 WU Companion Trident
@@ -3053,7 +3053,7 @@
 10 CR10 Direct damage (deals 2) Intimidating Stab
 10 CR02 2 MV Confident Chalk
 10 CR01 1 OR 2 MV Audacious Gladiator
-10 CR05 3 MV Speedy Slayer
+10 CR05 3 MV
 10 CR08 5 MV Combat Lanista
 10 UA05 Noncreature Worthy longsword
 10 UR04 Explosive Winner
@@ -3086,13 +3086,13 @@
 10 UB02 Noxious Slugger
 10 CB10 Small conditional removalThrow Aside
 10 UB05 Sewer Dwelling Hoarder
-10 UB07 Prepared Mercenery
+10 UB07
 10 UB11 Noncreature Stadium Morgue
 10 CB11 Combat trick Narcotic Frenzy
 10 CB07 4 OR 5 MV Exploiter of Weakness
 10 UB13 Noncreature Merciless Execution
 10 CW01 1 MV Arena Courtesan
-10 UA04 Noncreature Spiked Mace (NEW ART)
+10 UA04 Noncreature Spiked Mace
 10 UW03 Lanista of Style
 10 UW09 Armour Donor
 10 UW05 Narcissistic Fighter
@@ -3122,28 +3122,28 @@
 10 UW06 Quick Learner
 10 UW10 Scroll Gatherer
 10 UW04 Library Abettor
-10 UW01 Dual Vaulter
+10 UW01
 10 UW14 Noncreature Diverse Immaculacy
 10 CW13 Banishing Light Elspeth's Condemnation
 10 RW06 Ministrator
-10 CW09 4 MV Decorated Noble(EVALUATE)
+10 CW09 4 MV Cappennan Retaliater
 10 UW12 Noncreature Emporer's Lounge
 10 UU08 Noncreature Arena's Atmoshpere
 10 UU02 Ego Challenger
 10 UU04 Odds maker
 10 UU07 Vigilant Gargoyle
 10 UU14 Noncreature Royal Lathargy(REWORK)
-10 UU05 Opiate Professor
+10 UU05 Opiate Professor (ERROR)
 10 RU03 Steal Tactics
 10 UU06
 10 CU01 2 MV Capennan Importer(NEW ART)
-10 CA05 Manalith+ abilityBoosting Potation
+10 CA05 Manalith+ abilityBoosting Potation(NEWART)
 10 RX13 Tournament Invitation
 10 UA03
 10 UB01 Necrosis Tanker
 10 UB06 Stimulant Artisan
 10 CB05 3 MV Dockside Poisoner
-10 CB08 5 OR 6 MV (REWORK)
+10 CB08 5 OR 6 MV
 10 UB08 Noncreature Defectless Blow
 10 CB14 Unconditional removal Impose Fear
 10 UB12 Noncreature Warrior's Exoskeleton (REART)
@@ -3155,7 +3155,7 @@
 10 UR02 Crowd Side Bookie
 10 CR15 Direct damage (five mana, 6 damage) Winning Punch
 10 CG03 2 MV Withstanding Contender
-10 UG04 Nahua Survivalist (REaRT)
+10 UG04
 10 CG13 Combat trick (power pump) Etude Demeanour
 10 CG06 3 OR 4 MV Exploiting Industrialist
 10 CG15 Dig for lands and/or creatures Fresh Arrival
@@ -3196,7 +3196,7 @@
 10 MX08 Combat Math
 10 MB01 Match Fixing
 10 UW07 Spirit of Competition
-10 CB04 3 MV(RARITY)
+10 CB04 3 MV Travelling Eternal
 10 CB06 4 MV
 10 CB13 Coercion+ Mind Games
 10 UB10 Noncreature Regnas Captivity
@@ -3220,13 +3220,13 @@
 10 CA06 Land fixing Sponsors Lounge
 10 RU05 Skybridge Curators
 10 CG09 6 MV Sweeping Buckaroo
-10 CG10 6 OR 7 MV
+10 CG10 6 OR 7 MV Tusked
 10 CU04 3 MV
 10 CU05 3 MV
 10 CU06 4 MV
 10 RG07 DOUBLING SEASON DUDE
 10 CU15 Modal spell Brazen Barter
-10 CW08 4 MV Arena
+10 CW08 4 MV Arena Stylist
 10 CB09 6 OR 7 MV Halo Reverser
 10 CW11 6 OR 7 MV
 10 UU03 Lanista of Thought
@@ -3237,7 +3237,7 @@
 10 UG08 Stray Tamer
 10 UR12 Noncreature Win Together
 10 UG09 Dwelling Refiller
-10 CW06 MV Stonechilled Combatant
+10 CW06 MV
 10 RX09 Shapeshifting Phyrexian
 10 UR14 Noncreature Tour the Forge(REWORK)
 10 CR13 Modal Shatter
@@ -3270,9 +3270,9 @@
 10 MX02 Sylvia
 10 MX04 Najeela, Warrior Bride
 10 UA06 Uncommon Land Cycle(INNISTRAD)
-10 UA07 Uncommon Land Cycle
+10 UA07 Uncommon Land Cycle(WHITECLIFF)
 10 UA08 Uncommon Land Cycle
-10 UA09 Uncommon Land Cycle
-10 UA10 Uncommon Land Cycle
+10 UA09 Uncommon Land Cycle(CHIKYU)
+10 UA10 Uncommon Land Cycle(NYLIN)
 10 RU06 Santus, Talruvias Champion
 10 RX15
