@@ -2700,7 +2700,7 @@
 		{
 			"name": "RX15 Brulte, Baron of Tarkov",
 			"rarity": "rare",
-			"mana_cost": "{1{B}/R}{W/U}",
+			"mana_cost": "{1}{B/R}{W/U}",
 			"type": "Legendary Creature — Dwarf  Warrior ",
 			"collector_number": "242",
 			"image_uris": {
