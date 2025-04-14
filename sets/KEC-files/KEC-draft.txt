@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "UM17 Payoff",
+			"name": "UM17 Payoff Subterrene Herbalist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Human  Scientist ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/228_UM17 Payoff.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/228_UM17 Payoff Subterrene Herbalist.png"
 			}
 		},
 		{
@@ -241,23 +241,23 @@
 			}
 		},
 		{
-			"name": "RM01 WB Companion(CHANGE",
+			"name": "RM01 WB Companion(NEWART)",
 			"rarity": "rare",
 			"mana_cost": "{1{W}/B}{W/B}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_RM01 WB Companion(CHANGE.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_RM01 WB Companion(NEWART).png"
 			}
 		},
 		{
-			"name": "RM01 WG Companion(CHANGE)",
+			"name": "RM01 WG Companion",
 			"rarity": "rare",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_RM01 WG Companion(CHANGE).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_RM01 WG Companion.png"
 			}
 		},
 		{
@@ -331,13 +331,13 @@
 			}
 		},
 		{
-			"name": "UM11 Payoff",
+			"name": "UM11 Payoff Opportune Stand-In",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/222_UM11 Payoff.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/222_UM11 Payoff Opportune Stand-In.png"
 			}
 		},
 		{
@@ -461,13 +461,13 @@
 			}
 		},
 		{
-			"name": "CR05 3 MV Nimble Aggressor",
+			"name": "CR05 3 MV Nimble Aggressor(NEW ART)",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/118_CR05 3 MV Nimble Aggressor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/118_CR05 3 MV Nimble Aggressor(NEW ART).png"
 			}
 		},
 		{
@@ -481,13 +481,13 @@
 			}
 		},
 		{
-			"name": "UA05 Noncreature",
+			"name": "UA05 Noncreature Worthy Blade",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_UA05 Noncreature.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_UA05 Noncreature Worthy Blade.png"
 			}
 		},
 		{
@@ -751,23 +751,23 @@
 			}
 		},
 		{
-			"name": "CB01 1 OR 2 MV",
+			"name": "CB01 1 OR 2 MV Clawing Dueler",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_CB01 1 OR 2 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_CB01 1 OR 2 MV Clawing Dueler.png"
 			}
 		},
 		{
-			"name": "UB02 Noxious Slugger",
+			"name": "UB02 Noxious Slugger (NEWART)",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/101_UB02 Noxious Slugger.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/101_UB02 Noxious Slugger (NEWART).png"
 			}
 		},
 		{
@@ -791,13 +791,13 @@
 			}
 		},
 		{
-			"name": "UB07",
+			"name": "UB07 Unwilling Exterminator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human  Warrior ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/106_UB07.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/106_UB07 Unwilling Exterminator.png"
 			}
 		},
 		{
@@ -851,13 +851,13 @@
 			}
 		},
 		{
-			"name": "UA04 Noncreature",
+			"name": "UA04 Noncreature Solus Malleous",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/253_UA04 Noncreature.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/253_UA04 Noncreature Solus Malleous.png"
 			}
 		},
 		{
@@ -891,13 +891,13 @@
 			}
 		},
 		{
-			"name": "CW03 2 MV",
+			"name": "CW03 2 MV Lys Alana Legionnaire",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Elf Warrior ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_CW03 2 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_CW03 2 MV Lys Alana Legionnaire.png"
 			}
 		},
 		{
@@ -1131,23 +1131,23 @@
 			}
 		},
 		{
-			"name": "UW04 Library Abettor",
+			"name": "UW04 Clashing Armament",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human  ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/30_UW04 Library Abettor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/30_UW04 Clashing Armament.png"
 			}
 		},
 		{
-			"name": "UW01",
+			"name": "UW01 Inviting Challenger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_UW01.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_UW01 Inviting Challenger.png"
 			}
 		},
 		{
@@ -1211,13 +1211,13 @@
 			}
 		},
 		{
-			"name": "UU02 Ego Challenger",
-			"rarity": "uncommon",
+			"name": "CU06 Ego Challenger",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Merfolk Citizen ",
-			"collector_number": "64",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/64_UU02 Ego Challenger.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/46_CU06 Ego Challenger.png"
 			}
 		},
 		{
@@ -1231,33 +1231,33 @@
 			}
 		},
 		{
-			"name": "UU07 Vigilant Gargoyle",
-			"rarity": "uncommon",
+			"name": "CU04 Vigilant Gargoyle",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Gargoyle ",
-			"collector_number": "69",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/69_UU07 Vigilant Gargoyle.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/44_CU04 Vigilant Gargoyle.png"
 			}
 		},
 		{
 			"name": "UU14 Noncreature Royal Lathargy(REWORK)",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/76_UU14 Noncreature Royal Lathargy(REWORK).png"
 			}
 		},
 		{
-			"name": "UU05 Opiate Professor (ERROR)",
+			"name": "UU05 Street Pickpocket(ERROR)",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Human Advisor ",
+			"type": "Creature — Dragon Rogue ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/67_UU05 Opiate Professor (ERROR).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/67_UU05 Street Pickpocket(ERROR).png"
 			}
 		},
 		{
@@ -1271,13 +1271,13 @@
 			}
 		},
 		{
-			"name": "UU06",
+			"name": "UU06 Inquisitive Analyst",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_UU06.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_UU06 Inquisitive Analyst.png"
 			}
 		},
 		{
@@ -1351,13 +1351,13 @@
 			}
 		},
 		{
-			"name": "CB08 5 OR 6 MV",
+			"name": "CB08 5 OR 6 MV Duel-Wielding Personality",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/84_CB08 5 OR 6 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/84_CB08 5 OR 6 MV Duel-Wielding Personality.png"
 			}
 		},
 		{
@@ -1581,13 +1581,13 @@
 			}
 		},
 		{
-			"name": "UW08 Unprepared",
+			"name": "UW08 Unprepared Novice",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/34_UW08 Unprepared.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/34_UW08 Unprepared Novice.png"
 			}
 		},
 		{
@@ -1841,13 +1841,13 @@
 			}
 		},
 		{
-			"name": "CU13 (sideline)",
+			"name": "CU13 Sidelined",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/53_CU13 (sideline).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/53_CU13 Sidelined.png"
 			}
 		},
 		{
@@ -1901,23 +1901,23 @@
 			}
 		},
 		{
-			"name": "CB04 3 MV Travelling Eternal",
+			"name": "CB04 3 MV Roving Eternal",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Jackal Warrior ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/80_CB04 3 MV Travelling Eternal.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/80_CB04 3 MV Roving Eternal.png"
 			}
 		},
 		{
-			"name": "CB06 4 MV",
+			"name": "CB06 4 MV Bellicrose Whirler",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/82_CB06 4 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/82_CB06 4 MV Bellicrose Whirler.png"
 			}
 		},
 		{
@@ -1961,13 +1961,13 @@
 			}
 		},
 		{
-			"name": "CR09 6 MV",
+			"name": "CR09 6 MV Pummeling High-Roller",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Orc Warrior ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/122_CR09 6 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/122_CR09 6 MV Pummeling High-Roller.png"
 			}
 		},
 		{
@@ -2151,13 +2151,13 @@
 			}
 		},
 		{
-			"name": "CU04 3 MV Zealous Javelinist",
-			"rarity": "common",
+			"name": "UU07 3 MV Zealous Javelinist",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "44",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/44_CU04 3 MV Zealous Javelinist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/69_UU07 3 MV Zealous Javelinist.png"
 			}
 		},
 		{
@@ -2171,13 +2171,13 @@
 			}
 		},
 		{
-			"name": "CU06 4 MV",
-			"rarity": "common",
+			"name": "UU02 4 MV Splashing Critter",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast Warrior ",
-			"collector_number": "46",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/46_CU06 4 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/64_UU02 4 MV Splashing Critter.png"
 			}
 		},
 		{
@@ -2234,7 +2234,7 @@
 			"name": "UU03 Lanista of Thought",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature",
+			"type": "Creature — Human Advisor Wizard ",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/65_UU03 Lanista of Thought.png"
@@ -2331,13 +2331,13 @@
 			}
 		},
 		{
-			"name": "UR14 Noncreature Tour the Forge(REWORK)",
+			"name": "UR14 Noncreature Tour the Forge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Enchantment",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/154_UR14 Noncreature Tour the Forge(REWORK).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/154_UR14 Noncreature Tour the Forge.png"
 			}
 		},
 		{
@@ -2351,13 +2351,13 @@
 			}
 		},
 		{
-			"name": "UU13 Noncreature",
+			"name": "UU13 Noncreature Chilling Projectile",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/75_UU13 Noncreature.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/75_UU13 Noncreature Chilling Projectile.png"
 			}
 		},
 		{
@@ -2438,13 +2438,13 @@
 			}
 		},
 		{
-			"name": "RB06 (Come attack me)",
+			"name": "RB06 Attack Me",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/99_RB06 (Come attack me).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/99_RB06 Attack Me.png"
 			}
 		},
 		{
@@ -2488,13 +2488,13 @@
 			}
 		},
 		{
-			"name": "MU02 100 breaks rules. Tyrant",
+			"name": "MU02 Contention Tyrant",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Creature — Djinn ",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/131_MU02 100 breaks rules. Tyrant.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/131_MU02 Contention Tyrant.png"
 			}
 		},
 		{
@@ -2538,13 +2538,13 @@
 			}
 		},
 		{
-			"name": "RX03 Archetype Rare WG",
+			"name": "RX03 Archetype Rare WG Enchanting Shield",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/206_RX03 Archetype Rare WG.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/206_RX03 Archetype Rare WG Enchanting Shield.png"
 			}
 		},
 		{
@@ -2568,23 +2568,23 @@
 			}
 		},
 		{
-			"name": "RX06 Archetype Rare WB",
+			"name": "RX06 Archetype Rare WB Occultist Hurler",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/209_RX06 Archetype Rare WB.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/209_RX06 Archetype Rare WB Occultist Hurler.png"
 			}
 		},
 		{
-			"name": "RX02 Archetype Rare UB",
+			"name": "RX02 Archetype Rare UB Opiate Instituters",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Scientist ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/205_RX02 Archetype Rare UB.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/205_RX02 Archetype Rare UB Opiate Instituters.png"
 			}
 		},
 		{
@@ -2732,8 +2732,8 @@
 2 RX07 Rare equipment Blade of Many Warriors
 2 RG06 Intro Music
 2 RR03 Three Cheers (NEW ART)
-2 RM01 WB Companion(CHANGE
-2 RM01 WG Companion(CHANGE)
+2 RM01 WB Companion(NEWART)
+2 RM01 WG Companion
 2 RM01 WR Companion(CHANGE
 2 RM01 RU Companion (COLOUR PIE)Chakram
 2 RM01 UB Companion
@@ -2773,18 +2773,18 @@
 2 RW04 Isamaru, Hound of Konda
 2 RX09 Shapeshifting Phyrexian
 2 RG04 Enabling Synergism
-2 RB06 (Come attack me)
+2 RB06 Attack Me
 2 RM01 BG Archetype Rare BG
 2 RG01 UG Archetype Rare Merchandising Opiate
 2 RX08 Announcement Tower
 2 RM01 UG Companion
 2 RM01 BG Companion DemonGod deal
 2 RX01 Archetype Rare BR(Intimidation Techniques)
-2 RX03 Archetype Rare WG
+2 RX03 Archetype Rare WG Enchanting Shield
 2 RX04 Archetype Rare WU Stasis Effigy
 2 RX05 Archetype Rare UR (money where your mouth is)
-2 RX06 Archetype Rare WB
-2 RX02 Archetype Rare UB
+2 RX06 Archetype Rare WB Occultist Hurler
+2 RX02 Archetype Rare UB Opiate Instituters
 2 RX14 Squee, Lifelong Addict
 2 RR01 Gambling Den
 2 RU06 Santus, Talruvias Champion
@@ -2806,12 +2806,12 @@
 1 MR02 Victory Speech
 1 MW01 1 Ajani,
 1 MU01 Run it Back
-1 MU02 100 breaks rules. Tyrant
+1 MU02 Contention Tyrant
 1 MX02 Sylvia, of the Old Ways
 1 MX04 Najeela, Warrior Bride
 [UncommonSlot(4)]
 9 UM19 Payoff Tavern-Side Gambler
-9 UM17 Payoff
+9 UM17 Payoff Subterrene Herbalist
 9 UM04 Enabler Arena Kingpin
 9 UM03 Enabler Screeching Coyote
 9 UM18 Payoff Narcotic Manufacturer
@@ -2828,13 +2828,13 @@
 9 UR11 Noncreature Rile up the Crowd
 9 UG05 Part-Time Coward
 9 UM01 Enabler Awning Guide
-9 UM11 Payoff
+9 UM11 Payoff Opportune Stand-In
 9 UG11 Noncreature Ironbreaker Stance
 9 UB09 Noncreature False Surrender
 9 UW11 Noncreature Battlefield Conjuration
 9 UM05 Enabler Unbothered Benefactor
 9 UM15 Payoff
-9 UA05 Noncreature
+9 UA05 Noncreature Worthy Blade
 9 UR04 Explosive Winner
 9 UR06 Primed Contender
 9 UU12 Noncreature Rebounding Lesson
@@ -2846,12 +2846,12 @@
 9 UG06 Residue Feeder
 9 UG01 Halo Prototyper
 9 UB03 Ruthless Lanista
-9 UB02 Noxious Slugger
+9 UB02 Noxious Slugger (NEWART)
 9 UB05 Sewer Dwelling Hoarder
-9 UB07
+9 UB07 Unwilling Exterminator
 9 UB11 Noncreature Stadium Morgue
 9 UB13 Noncreature Merciless Execution
-9 UA04 Noncreature
+9 UA04 Noncreature Solus Malleous
 9 UW03 Lanista of Style
 9 UW09 Armour Donor
 9 UW05 Narcissistic Fighter
@@ -2860,17 +2860,15 @@
 9 UB04 Scandalous Contestant
 9 UW06 Quick Learner
 9 UW10 Scroll Gatherer
-9 UW04 Library Abettor
-9 UW01
+9 UW04 Clashing Armament
+9 UW01 Inviting Challenger
 9 UW14 Noncreature Diverse Immaculacy
 9 UW12 Noncreature Emporer's Lounge
 9 UU08 Noncreature Arena's Atmoshpere
-9 UU02 Ego Challenger
 9 UU04 Odds maker
-9 UU07 Vigilant Gargoyle
 9 UU14 Noncreature Royal Lathargy(REWORK)
-9 UU05 Opiate Professor (ERROR)
-9 UU06
+9 UU05 Street Pickpocket(ERROR)
+9 UU06 Inquisitive Analyst
 9 UA03 Weaponised Mech
 9 UB01 Necrosis Tanker
 9 UB06 Stimulant Artisan
@@ -2883,7 +2881,7 @@
 9 UR02 Crowd Side Bookie
 9 UG04 Sural Handler
 9 UG14 Noncreature Gear Affix
-9 UW08 Unprepared
+9 UW08 Unprepared Novice
 9 UG03 Mentor of Balance
 9 UW02 Engraver of Champions
 9 UW13 Noncreature Elspeths Protection
@@ -2892,14 +2890,16 @@
 9 UA01 Offworld Traveler
 9 UR07 Scandalous Gambler
 9 UR03 Halo Infuser
+9 UU07 3 MV Zealous Javelinist
+9 UU02 4 MV Splashing Critter
 9 UU03 Lanista of Thought
 9 UG13 Noncreature Bursting Kick
 9 UG07 Vermin Smasher
 9 UG08 Stray Tamer
 9 UR12 Noncreature Win Together
 9 UG09 Dwelling Refiller
-9 UR14 Noncreature Tour the Forge(REWORK)
-9 UU13 Noncreature
+9 UR14 Noncreature Tour the Forge
+9 UU13 Noncreature Chilling Projectile
 9 UA02 Arena Vendor
 9 UB14 Noncreature Enter the Arena
 9 UM02 Enabler Backstreet Supplier
@@ -2920,7 +2920,7 @@
 30 CR10 Direct damage (deals 2) Direful Slash
 30 CR02 2 MV Confident Chalk
 30 CR01 1 OR 2 MV Audacious Gladiator
-30 CR05 3 MV Nimble Aggressor
+30 CR05 3 MV Nimble Aggressor(NEW ART)
 30 CR08 5 MV Combat Lanista
 30 CR07 4 OR 5 MV Groyv, Hulking Combatant CHECKKK
 30 CU10 Counterspell Anatomy Blast
@@ -2937,12 +2937,12 @@
 30 Swamp
 30 Mountain
 30 CB02 2 MV Blunt Suspect
-30 CB01 1 OR 2 MV
+30 CB01 1 OR 2 MV Clawing Dueler
 30 CB10 Small conditional removalThrow Aside
 30 CB11 Combat trick Narcotic Frenzy
 30 CB07 4 OR 5 MV Exploiter of Weakness
 30 CW01 1 MV Arena Courtesan
-30 CW03 2 MV
+30 CW03 2 MV Lys Alana Legionnaire
 30 CG08 5 MV Noxious Uppercut
 30 CB12 Card draw (added cost) Debasing Execution(Flavour)
 30 CA02 Foiling Block
@@ -2950,10 +2950,12 @@
 30 Forest
 30 CW13 Banishing Light Elspeth's Condemnation
 30 CW09 4 MV Cappennan Retaliator
+30 CU06 Ego Challenger
+30 CU04 Vigilant Gargoyle
 30 CU01 2 MV Capennan Importer(NEW ART)
 30 CA05 Manalith+ abilityBoosting Potation(NEWART)
 30 CB05 3 MV Dockside Poisoner
-30 CB08 5 OR 6 MV
+30 CB08 5 OR 6 MV Duel-Wielding Personality
 30 CB14 Unconditional removal Impose Fear
 30 CR04 3 MV Pre-Emptive Duelist
 30 CR15 Direct damage (five mana, 6 damage) Winning Punch
@@ -2970,15 +2972,15 @@
 30 CW15 Disenchant/removal spell Battering Ram
 30 CU07 5 OR 6 MV Arena Infiltrator
 30 CU08 6 OR 7 MV Arena Steward
-30 CU13 (sideline)
+30 CU13 Sidelined
 30 CU14 Top or bottom spell Battlefield impingement
 30 CU09 Protective instant(Battle Reflexes
-30 CB04 3 MV Travelling Eternal
-30 CB06 4 MV
+30 CB04 3 MV Roving Eternal
+30 CB06 4 MV Bellicrose Whirler
 30 CB13 Coercion+ Mind Games
 30 CR03 2 MV Flare Spewer
 30 CR06 3 OR 4 MV Pirouetting Ringster
-30 CR09 6 MV
+30 CR09 6 MV Pummeling High-Roller
 30 CR11 Combat trick Sharp lunge
 30 CG07 4 OR 5 MV Arena Security
 30 CG12 Bite spell Ferocious Incision
@@ -2987,9 +2989,7 @@
 30 CA06 Land fixing Sponsors Lounge
 30 CG09 6 MV Sweeping Buckaroo
 30 CG10 6 OR 7 MV Tusked Contestor
-30 CU04 3 MV Zealous Javelinist
 30 CU05 3 MV
-30 CU06 4 MV
 30 CU15 Modal spell Brazen Barter
 30 CW08 4 MV Arena Stylist
 30 CB09 6 OR 7 MV Halo Reverser
@@ -2999,7 +2999,7 @@
 30 CB15 Slightly overcosted removal Finish Him
 [WildcardSlot(2)]
 10 UM19 Payoff Tavern-Side Gambler
-10 UM17 Payoff
+10 UM17 Payoff Subterrene Herbalist
 10 UM04 Enabler Arena Kingpin
 10 UM03 Enabler Screeching Coyote
 10 UM18 Payoff Narcotic Manufacturer
@@ -3020,8 +3020,8 @@
 10 UR11 Noncreature Rile up the Crowd
 10 RR03 Three Cheers (NEW ART)
 10 UG05 Part-Time Coward
-10 RM01 WB Companion(CHANGE
-10 RM01 WG Companion(CHANGE)
+10 RM01 WB Companion(NEWART)
+10 RM01 WG Companion
 10 RM01 WR Companion(CHANGE
 10 RM01 RU Companion (COLOUR PIE)Chakram
 10 RM01 UB Companion
@@ -3029,7 +3029,7 @@
 10 RM01 WU Companion Trident
 10 RR07 Choose your Weapon
 10 UM01 Enabler Awning Guide
-10 UM11 Payoff
+10 UM11 Payoff Opportune Stand-In
 10 CW14 Combat trick Flying Kick
 10 UG11 Noncreature Ironbreaker Stance
 10 CU11 Cantrip Use your Wits
@@ -3042,9 +3042,9 @@
 10 CR10 Direct damage (deals 2) Direful Slash
 10 CR02 2 MV Confident Chalk
 10 CR01 1 OR 2 MV Audacious Gladiator
-10 CR05 3 MV Nimble Aggressor
+10 CR05 3 MV Nimble Aggressor(NEW ART)
 10 CR08 5 MV Combat Lanista
-10 UA05 Noncreature
+10 UA05 Noncreature Worthy Blade
 10 UR04 Explosive Winner
 10 UR06 Primed Contender
 10 CR07 4 OR 5 MV Groyv, Hulking Combatant CHECKKK
@@ -3071,21 +3071,21 @@
 10 Mountain
 10 CB02 2 MV Blunt Suspect
 10 UB03 Ruthless Lanista
-10 CB01 1 OR 2 MV
-10 UB02 Noxious Slugger
+10 CB01 1 OR 2 MV Clawing Dueler
+10 UB02 Noxious Slugger (NEWART)
 10 CB10 Small conditional removalThrow Aside
 10 UB05 Sewer Dwelling Hoarder
-10 UB07
+10 UB07 Unwilling Exterminator
 10 UB11 Noncreature Stadium Morgue
 10 CB11 Combat trick Narcotic Frenzy
 10 CB07 4 OR 5 MV Exploiter of Weakness
 10 UB13 Noncreature Merciless Execution
 10 CW01 1 MV Arena Courtesan
-10 UA04 Noncreature
+10 UA04 Noncreature Solus Malleous
 10 UW03 Lanista of Style
 10 UW09 Armour Donor
 10 UW05 Narcissistic Fighter
-10 CW03 2 MV
+10 CW03 2 MV Lys Alana Legionnaire
 10 RW05 Enchanting Wristlets
 10 UU11 Noncreature Hostile Projection
 10 CG08 5 MV Noxious Uppercut
@@ -3109,21 +3109,21 @@
 10 Forest
 10 UW06 Quick Learner
 10 UW10 Scroll Gatherer
-10 UW04 Library Abettor
-10 UW01
+10 UW04 Clashing Armament
+10 UW01 Inviting Challenger
 10 UW14 Noncreature Diverse Immaculacy
 10 CW13 Banishing Light Elspeth's Condemnation
 10 RW06 Arena Ministrator
 10 CW09 4 MV Cappennan Retaliator
 10 UW12 Noncreature Emporer's Lounge
 10 UU08 Noncreature Arena's Atmoshpere
-10 UU02 Ego Challenger
+10 CU06 Ego Challenger
 10 UU04 Odds maker
-10 UU07 Vigilant Gargoyle
+10 CU04 Vigilant Gargoyle
 10 UU14 Noncreature Royal Lathargy(REWORK)
-10 UU05 Opiate Professor (ERROR)
+10 UU05 Street Pickpocket(ERROR)
 10 RU03 Steal Tactics
-10 UU06
+10 UU06 Inquisitive Analyst
 10 CU01 2 MV Capennan Importer(NEW ART)
 10 CA05 Manalith+ abilityBoosting Potation(NEWART)
 10 RX13 Tournament Invitation
@@ -3131,7 +3131,7 @@
 10 UB01 Necrosis Tanker
 10 UB06 Stimulant Artisan
 10 CB05 3 MV Dockside Poisoner
-10 CB08 5 OR 6 MV
+10 CB08 5 OR 6 MV Duel-Wielding Personality
 10 UB08 Noncreature Defectless Blow
 10 CB14 Unconditional removal Impose Fear
 10 UB12 Noncreature Warrior's Exoskeleton (REART)
@@ -3152,7 +3152,7 @@
 10 CW05 3 MV Crowd Surfer
 10 CW04 2 MV specialised Competitor
 10 CW10 2 MV Rushing Dueler
-10 UW08 Unprepared
+10 UW08 Unprepared Novice
 10 UG03 Mentor of Balance
 10 RR06 Swift Switchup
 10 RB01 Deadly Switchup
@@ -3178,19 +3178,19 @@
 10 RW03 Shielding Combatant
 10 CU07 5 OR 6 MV Arena Infiltrator
 10 CU08 6 OR 7 MV Arena Steward
-10 CU13 (sideline)
+10 CU13 Sidelined
 10 CU14 Top or bottom spell Battlefield impingement
 10 CU09 Protective instant(Battle Reflexes
 10 MX08 Combat MathZ(New Art)
 10 MB01 Match Fixing
 10 UW07 Spirit of Competition
-10 CB04 3 MV Travelling Eternal
-10 CB06 4 MV
+10 CB04 3 MV Roving Eternal
+10 CB06 4 MV Bellicrose Whirler
 10 CB13 Coercion+ Mind Games
 10 UB10 Noncreature Regnas Captivity
 10 CR03 2 MV Flare Spewer
 10 CR06 3 OR 4 MV Pirouetting Ringster
-10 CR09 6 MV
+10 CR09 6 MV Pummeling High-Roller
 10 CR11 Combat trick Sharp lunge
 10 CG07 4 OR 5 MV Arena Security
 10 CG12 Bite spell Ferocious Incision
@@ -3209,9 +3209,9 @@
 10 RU05 Skybridge Curators
 10 CG09 6 MV Sweeping Buckaroo
 10 CG10 6 OR 7 MV Tusked Contestor
-10 CU04 3 MV Zealous Javelinist
+10 UU07 3 MV Zealous Javelinist
 10 CU05 3 MV
-10 CU06 4 MV
+10 UU02 4 MV Splashing Critter
 10 RG07 Lone-Sword Tavern Bartender
 10 CU15 Modal spell Brazen Barter
 10 CW08 4 MV Arena Stylist
@@ -3227,9 +3227,9 @@
 10 UG09 Dwelling Refiller
 10 CW06 MV Cautious Showboat
 10 RX09 Shapeshifting Phyrexian
-10 UR14 Noncreature Tour the Forge(REWORK)
+10 UR14 Noncreature Tour the Forge
 10 CR13 Modal Smash to Smithereens
-10 UU13 Noncreature
+10 UU13 Noncreature Chilling Projectile
 10 UA02 Arena Vendor
 10 UB14 Noncreature Enter the Arena
 10 MR02 Victory Speech
@@ -3237,21 +3237,21 @@
 10 UR10 Noncreature Fiery Lunge
 10 RG04 Enabling Synergism
 10 MW01 1 Ajani,
-10 RB06 (Come attack me)
+10 RB06 Attack Me
 10 CB15 Slightly overcosted removal Finish Him
 10 RM01 BG Archetype Rare BG
 10 RG01 UG Archetype Rare Merchandising Opiate
 10 MU01 Run it Back
-10 MU02 100 breaks rules. Tyrant
+10 MU02 Contention Tyrant
 10 RX08 Announcement Tower
 10 RM01 UG Companion
 10 RM01 BG Companion DemonGod deal
 10 RX01 Archetype Rare BR(Intimidation Techniques)
-10 RX03 Archetype Rare WG
+10 RX03 Archetype Rare WG Enchanting Shield
 10 RX04 Archetype Rare WU Stasis Effigy
 10 RX05 Archetype Rare UR (money where your mouth is)
-10 RX06 Archetype Rare WB
-10 RX02 Archetype Rare UB
+10 RX06 Archetype Rare WB Occultist Hurler
+10 RX02 Archetype Rare UB Opiate Instituters
 10 RX14 Squee, Lifelong Addict
 10 RR01 Gambling Den
 10 UR08 Noncreature Wanna Bet on It
