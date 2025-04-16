@@ -55,26 +55,26 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Halo ",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_Halo.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/8_Halo.png"
 			}
 		},
 		{
-			"name": "UM06 Enabler",
+			"name": "UM06 Enabler (NEWART)",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/217_UM06 Enabler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/217_UM06 Enabler (NEWART).png"
 			}
 		},
 		{
 			"name": "UM16 Payoff Patient Battler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Minotaur Warrior ",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/227_UM16 Payoff Patient Battler.png"
@@ -234,7 +234,7 @@
 			"name": "The Crowd's Favour",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "               The Crowd’s Favor",
+			"type": " ",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/2_The Crowd's Favour.png"
@@ -243,7 +243,7 @@
 		{
 			"name": "RM01 WB Companion(NEWART)",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/B}{W/B}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "237",
 			"image_uris": {
@@ -261,23 +261,23 @@
 			}
 		},
 		{
-			"name": "RM01 WR Companion(CHANGE",
+			"name": "RM01 WR Companion",
 			"rarity": "rare",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_RM01 WR Companion(CHANGE.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_RM01 WR Companion.png"
 			}
 		},
 		{
-			"name": "RM01 RU Companion (COLOUR PIE)Chakram",
+			"name": "RM01 RU Companion (WORDY)Chakram",
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/234_RM01 RU Companion (COLOUR PIE)Chakram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/234_RM01 RU Companion (WORDY)Chakram.png"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 		{
 			"name": "RM01 WU Companion Trident",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/U}{W/U}",
+			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "240",
 			"image_uris": {
@@ -631,13 +631,13 @@
 			}
 		},
 		{
-			"name": "UG02 Inconspicuous Supplier",
+			"name": "UG02 Inconspicuous Supplier(TOO STRONG)",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Demon Citizen ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/180_UG02 Inconspicuous Supplier.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/180_UG02 Inconspicuous Supplier(TOO STRONG).png"
 			}
 		},
 		{
@@ -811,13 +811,13 @@
 			}
 		},
 		{
-			"name": "CB11 Combat trick Narcotic Frenzy",
+			"name": "CB11 Combat trick Narcotic Frenzy(ART)",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/87_CB11 Combat trick Narcotic Frenzy.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/87_CB11 Combat trick Narcotic Frenzy(ART).png"
 			}
 		},
 		{
@@ -844,7 +844,7 @@
 			"name": "CW01 1 MV Arena Courtesan",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Noble ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_CW01 1 MV Arena Courtesan.png"
@@ -1134,7 +1134,7 @@
 			"name": "UW04 Clashing Armament",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human  ",
+			"type": "Creature — Human  Warrior ",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/30_UW04 Clashing Armament.png"
@@ -1241,13 +1241,13 @@
 			}
 		},
 		{
-			"name": "UU14 Noncreature Royal Lathargy(REWORK)",
+			"name": "UU14 Noncreature Royal Lathargy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/76_UU14 Noncreature Royal Lathargy(REWORK).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/76_UU14 Noncreature Royal Lathargy.png"
 			}
 		},
 		{
@@ -1571,13 +1571,13 @@
 			}
 		},
 		{
-			"name": "CW10 2 MV Rushing Dueler",
+			"name": "CW10 2 MV Dueler(ERROR)",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/13_CW10 2 MV Rushing Dueler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/13_CW10 2 MV Dueler(ERROR).png"
 			}
 		},
 		{
@@ -1944,7 +1944,7 @@
 			"name": "CR03 2 MV Flare Spewer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — ElfWarrior ",
+			"type": "Creature — Elf Warrior ",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/116_CR03 2 MV Flare Spewer.png"
@@ -2161,13 +2161,13 @@
 			}
 		},
 		{
-			"name": "CU05 3 MV",
+			"name": "CU05 3 MV(ERROR)",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Ogre Wizard ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/45_CU05 3 MV.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/45_CU05 3 MV(ERROR).png"
 			}
 		},
 		{
@@ -2528,13 +2528,13 @@
 			}
 		},
 		{
-			"name": "RX01 Archetype Rare BR(Intimidation Techniques)",
+			"name": "RX01 Archetype Rare BR Intimidation Techniques",
 			"rarity": "rare",
 			"mana_cost": "{B/R}",
 			"type": "Enchantment",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/241_RX01 Archetype Rare BR(Intimidation Techniques).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/241_RX01 Archetype Rare BR Intimidation Techniques.png"
 			}
 		},
 		{
@@ -2558,13 +2558,13 @@
 			}
 		},
 		{
-			"name": "RX05 Archetype Rare UR (money where your mouth is)",
+			"name": "RX05 Archetype Rare UR Money Where Your Mouth is",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/208_RX05 Archetype Rare UR (money where your mouth is).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/208_RX05 Archetype Rare UR Money Where Your Mouth is.png"
 			}
 		},
 		{
@@ -2638,53 +2638,53 @@
 			}
 		},
 		{
-			"name": "UA06 Uncommon Land Cycle(INNISTRAD)",
+			"name": "UA06 Uncommon Land Cycle",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/262_UA06 Uncommon Land Cycle(INNISTRAD).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/262_UA06 Uncommon Land Cycle.png"
 			}
 		},
 		{
-			"name": "UA07 Uncommon Land Cycle(WHITECLIFF)",
+			"name": "UA07 Uncommon Land Cycle",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/263_UA07 Uncommon Land Cycle(WHITECLIFF).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/263_UA07 Uncommon Land Cycle.png"
 			}
 		},
 		{
-			"name": "UA08 Uncommon Land Cycle(TARkov)",
+			"name": "UA08 Uncommon Land Cycle",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": " Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_UA08 Uncommon Land Cycle(TARkov).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_UA08 Uncommon Land Cycle.png"
 			}
 		},
 		{
-			"name": "UA09 Uncommon Land Cycle(CHIKYU)",
+			"name": "UA09 Uncommon Land Cycle",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/265_UA09 Uncommon Land Cycle(CHIKYU).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/265_UA09 Uncommon Land Cycle.png"
 			}
 		},
 		{
-			"name": "UA10 Uncommon Land Cycle(NYLIN)",
+			"name": "UA10 Uncommon Land Cycle",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_UA10 Uncommon Land Cycle(NYLIN).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_UA10 Uncommon Land Cycle.png"
 			}
 		},
 		{
@@ -2700,7 +2700,7 @@
 		{
 			"name": "RX15 Brulte, Baron of Tarkov",
 			"rarity": "rare",
-			"mana_cost": "{1{B}/R}{W/U}",
+			"mana_cost": "{1}{B/R}{W/U}",
 			"type": "Legendary Creature — Dwarf  Warrior ",
 			"collector_number": "242",
 			"image_uris": {
@@ -2712,9 +2712,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spectator ",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_Spectator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/7_Spectator.png"
 			}
 		},
 		{
@@ -2726,6 +2726,36 @@
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_Warrior.png"
 			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_Treasure.png"
+			}
+		},
+		{
+			"name": "Wolf(NEWART)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_Wolf(NEWART).png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_Goblin.png"
+			}
 		}
 	]
 [RareSlot(1)]
@@ -2734,8 +2764,8 @@
 2 RR03 Three Cheers (NEW ART)
 2 RM01 WB Companion(NEWART)
 2 RM01 WG Companion
-2 RM01 WR Companion(CHANGE
-2 RM01 RU Companion (COLOUR PIE)Chakram
+2 RM01 WR Companion
+2 RM01 RU Companion (WORDY)Chakram
 2 RM01 UB Companion
 2 RM01 RG companion
 2 RM01 WU Companion Trident
@@ -2779,10 +2809,10 @@
 2 RX08 Announcement Tower
 2 RM01 UG Companion
 2 RM01 BG Companion DemonGod deal
-2 RX01 Archetype Rare BR(Intimidation Techniques)
+2 RX01 Archetype Rare BR Intimidation Techniques
 2 RX03 Archetype Rare WG Enchanting Shield
 2 RX04 Archetype Rare WU Stasis Effigy
-2 RX05 Archetype Rare UR (money where your mouth is)
+2 RX05 Archetype Rare UR Money Where Your Mouth is
 2 RX06 Archetype Rare WB Occultist Hurler
 2 RX02 Archetype Rare UB Opiate Instituters
 2 RX14 Squee, Lifelong Addict
@@ -2815,7 +2845,7 @@
 9 UM04 Enabler Arena Kingpin
 9 UM03 Enabler Screeching Coyote
 9 UM18 Payoff Narcotic Manufacturer
-9 UM06 Enabler
+9 UM06 Enabler (NEWART)
 9 UM16 Payoff Patient Battler
 9 UM13 Enabler Instill Fear
 9 UM14 Payoff Number-One Follower
@@ -2842,7 +2872,7 @@
 9 UU01 Delivery Jays
 9 UG10 Noncreature Rowdy Crowd
 9 UG12 Noncreature Training Encampment
-9 UG02 Inconspicuous Supplier
+9 UG02 Inconspicuous Supplier(TOO STRONG)
 9 UG06 Residue Feeder
 9 UG01 Halo Prototyper
 9 UB03 Ruthless Lanista
@@ -2866,7 +2896,7 @@
 9 UW12 Noncreature Emporer's Lounge
 9 UU08 Noncreature Arena's Atmoshpere
 9 UU04 Odds maker
-9 UU14 Noncreature Royal Lathargy(REWORK)
+9 UU14 Noncreature Royal Lathargy
 9 UU05 Street Pickpocket(ERROR)
 9 UU06 Inquisitive Analyst
 9 UA03 Weaponised Mech
@@ -2905,11 +2935,11 @@
 9 UM02 Enabler Backstreet Supplier
 9 UR10 Noncreature Fiery Lunge
 9 UR08 Noncreature Wanna Bet on It
-9 UA06 Uncommon Land Cycle(INNISTRAD)
-9 UA07 Uncommon Land Cycle(WHITECLIFF)
-9 UA08 Uncommon Land Cycle(TARkov)
-9 UA09 Uncommon Land Cycle(CHIKYU)
-9 UA10 Uncommon Land Cycle(NYLIN)
+9 UA06 Uncommon Land Cycle
+9 UA07 Uncommon Land Cycle
+9 UA08 Uncommon Land Cycle
+9 UA09 Uncommon Land Cycle
+9 UA10 Uncommon Land Cycle
 [CommonSlot(7)]
 30 CR12 Rummaging/impulsive draw Awesome Play
 30 CB03 2 MV Fan Favourite
@@ -2939,7 +2969,7 @@
 30 CB02 2 MV Blunt Suspect
 30 CB01 1 OR 2 MV Clawing Dueler
 30 CB10 Small conditional removalThrow Aside
-30 CB11 Combat trick Narcotic Frenzy
+30 CB11 Combat trick Narcotic Frenzy(ART)
 30 CB07 4 OR 5 MV Exploiter of Weakness
 30 CW01 1 MV Arena Courtesan
 30 CW03 2 MV Lys Alana Legionnaire
@@ -2966,7 +2996,7 @@
 30 CG02 2 MV Market Upcomers
 30 CW05 3 MV Crowd Surfer
 30 CW04 2 MV specialised Competitor
-30 CW10 2 MV Rushing Dueler
+30 CW10 2 MV Dueler(ERROR)
 30 CW02 Crusader of Celebration
 30 CW07 4 MV Mentor of Respect
 30 CW15 Disenchant/removal spell Battering Ram
@@ -2989,7 +3019,7 @@
 30 CA06 Land fixing Sponsors Lounge
 30 CG09 6 MV Sweeping Buckaroo
 30 CG10 6 OR 7 MV Tusked Contestor
-30 CU05 3 MV
+30 CU05 3 MV(ERROR)
 30 CU15 Modal spell Brazen Barter
 30 CW08 4 MV Arena Stylist
 30 CB09 6 OR 7 MV Halo Reverser
@@ -3003,7 +3033,7 @@
 10 UM04 Enabler Arena Kingpin
 10 UM03 Enabler Screeching Coyote
 10 UM18 Payoff Narcotic Manufacturer
-10 UM06 Enabler
+10 UM06 Enabler (NEWART)
 10 UM16 Payoff Patient Battler
 10 UM13 Enabler Instill Fear
 10 UM14 Payoff Number-One Follower
@@ -3022,8 +3052,8 @@
 10 UG05 Part-Time Coward
 10 RM01 WB Companion(NEWART)
 10 RM01 WG Companion
-10 RM01 WR Companion(CHANGE
-10 RM01 RU Companion (COLOUR PIE)Chakram
+10 RM01 WR Companion
+10 RM01 RU Companion (WORDY)Chakram
 10 RM01 UB Companion
 10 RM01 RG companion
 10 RM01 WU Companion Trident
@@ -3059,7 +3089,7 @@
 10 UG10 Noncreature Rowdy Crowd
 10 CG01 1 OR 2 MV Overdosed Lab Animal
 10 UG12 Noncreature Training Encampment
-10 UG02 Inconspicuous Supplier
+10 UG02 Inconspicuous Supplier(TOO STRONG)
 10 CG05 3 MV Fercious Lanista
 10 UG06 Residue Feeder
 10 UG01 Halo Prototyper
@@ -3077,7 +3107,7 @@
 10 UB05 Sewer Dwelling Hoarder
 10 UB07 Unwilling Exterminator
 10 UB11 Noncreature Stadium Morgue
-10 CB11 Combat trick Narcotic Frenzy
+10 CB11 Combat trick Narcotic Frenzy(ART)
 10 CB07 4 OR 5 MV Exploiter of Weakness
 10 UB13 Noncreature Merciless Execution
 10 CW01 1 MV Arena Courtesan
@@ -3120,7 +3150,7 @@
 10 CU06 Ego Challenger
 10 UU04 Odds maker
 10 CU04 Vigilant Gargoyle
-10 UU14 Noncreature Royal Lathargy(REWORK)
+10 UU14 Noncreature Royal Lathargy
 10 UU05 Street Pickpocket(ERROR)
 10 RU03 Steal Tactics
 10 UU06 Inquisitive Analyst
@@ -3151,7 +3181,7 @@
 10 CG02 2 MV Market Upcomers
 10 CW05 3 MV Crowd Surfer
 10 CW04 2 MV specialised Competitor
-10 CW10 2 MV Rushing Dueler
+10 CW10 2 MV Dueler(ERROR)
 10 UW08 Unprepared Novice
 10 UG03 Mentor of Balance
 10 RR06 Swift Switchup
@@ -3210,7 +3240,7 @@
 10 CG09 6 MV Sweeping Buckaroo
 10 CG10 6 OR 7 MV Tusked Contestor
 10 UU07 3 MV Zealous Javelinist
-10 CU05 3 MV
+10 CU05 3 MV(ERROR)
 10 UU02 4 MV Splashing Critter
 10 RG07 Lone-Sword Tavern Bartender
 10 CU15 Modal spell Brazen Barter
@@ -3246,10 +3276,10 @@
 10 RX08 Announcement Tower
 10 RM01 UG Companion
 10 RM01 BG Companion DemonGod deal
-10 RX01 Archetype Rare BR(Intimidation Techniques)
+10 RX01 Archetype Rare BR Intimidation Techniques
 10 RX03 Archetype Rare WG Enchanting Shield
 10 RX04 Archetype Rare WU Stasis Effigy
-10 RX05 Archetype Rare UR (money where your mouth is)
+10 RX05 Archetype Rare UR Money Where Your Mouth is
 10 RX06 Archetype Rare WB Occultist Hurler
 10 RX02 Archetype Rare UB Opiate Instituters
 10 RX14 Squee, Lifelong Addict
@@ -3257,10 +3287,10 @@
 10 UR08 Noncreature Wanna Bet on It
 10 MX02 Sylvia, of the Old Ways
 10 MX04 Najeela, Warrior Bride
-10 UA06 Uncommon Land Cycle(INNISTRAD)
-10 UA07 Uncommon Land Cycle(WHITECLIFF)
-10 UA08 Uncommon Land Cycle(TARkov)
-10 UA09 Uncommon Land Cycle(CHIKYU)
-10 UA10 Uncommon Land Cycle(NYLIN)
+10 UA06 Uncommon Land Cycle
+10 UA07 Uncommon Land Cycle
+10 UA08 Uncommon Land Cycle
+10 UA09 Uncommon Land Cycle
+10 UA10 Uncommon Land Cycle
 10 RU06 Santus, Talruvias Champion
 10 RX15 Brulte, Baron of Tarkov
