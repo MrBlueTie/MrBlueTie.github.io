@@ -243,7 +243,7 @@
 		{
 			"name": "RM01 WB Companion Innocuous Shield",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/B}{W/B}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "239",
 			"image_uris": {
@@ -303,7 +303,7 @@
 		{
 			"name": "RM01 WU Companion Trident of Tides",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/U}{W/U}",
+			"mana_cost": "{1}{WF/U}{W/U}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "242",
 			"image_uris": {
@@ -2848,7 +2848,7 @@
 		{
 			"name": "RM01 Axe of the Bloodscript",
 			"rarity": "rare",
-			"mana_cost": "{1{B}/R}",
+			"mana_cost": "{1}{B/R}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "233",
 			"image_uris": {
