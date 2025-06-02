@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Halo ",
-			"collector_number": "7",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/7_Halo.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/11_Halo.png"
 			}
 		},
 		{
@@ -191,16 +191,6 @@
 			}
 		},
 		{
-			"name": "CB03 2 MV Fan Favourite",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Warrior ",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_CB03 2 MV Fan Favourite.png"
-			}
-		},
-		{
 			"name": "UR11 Noncreature Rile up the Crowd",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
@@ -243,7 +233,7 @@
 		{
 			"name": "RM01 WB Companion Innocuous Shield",
 			"rarity": "rare",
-			"mana_cost": "{1}{W/B}{W/B}",
+			"mana_cost": "{1{W}/B}{W/B}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "239",
 			"image_uris": {
@@ -271,13 +261,13 @@
 			}
 		},
 		{
-			"name": "RM01 RU Companion (ERROR)Chakram",
+			"name": "RM01 RU Companion Skyrend Chakram",
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_RM01 RU Companion (ERROR)Chakram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_RM01 RU Companion Skyrend Chakram.png"
 			}
 		},
 		{
@@ -291,19 +281,19 @@
 			}
 		},
 		{
-			"name": "RM01 RG companion Marksman'sShooter",
+			"name": "RM01 RG companion Marksman's Shooter",
 			"rarity": "rare",
 			"mana_cost": "{R/G}{R/G}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/235_RM01 RG companion Marksman'sShooter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/235_RM01 RG companion Marksman's Shooter.png"
 			}
 		},
 		{
 			"name": "RM01 WU Companion Trident of Tides",
 			"rarity": "rare",
-			"mana_cost": "{1}{WF/U}{W/U}",
+			"mana_cost": "{1{W}/U}{W/U}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "242",
 			"image_uris": {
@@ -333,7 +323,7 @@
 		{
 			"name": "UM11 Payoff Opportune Stand-In",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
@@ -521,19 +511,19 @@
 			}
 		},
 		{
-			"name": "CU10 Counterspell Counterflo",
+			"name": "CU10 Counterspell",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/49_CU10 Counterspell Counterflo.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/49_CU10 Counterspell.png"
 			}
 		},
 		{
 			"name": "UU12 Noncreature Rebounding Lesson",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
@@ -663,7 +653,7 @@
 		{
 			"name": "UG01 Halo Prototyper",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scientist ",
 			"collector_number": "176",
 			"image_uris": {
@@ -921,13 +911,13 @@
 			}
 		},
 		{
-			"name": "CG08 5 MV(NEWART)",
+			"name": "CG08 5 MV Orcish Stance-Bearer",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Aura Technique  ",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ogre Warrior ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/159_CG08 5 MV(NEWART).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/159_CG08 5 MV Orcish Stance-Bearer.png"
 			}
 		},
 		{
@@ -943,7 +933,7 @@
 		{
 			"name": "CA02 Foiling Block",
 			"rarity": "common",
-			"mana_cost": "{4}",
+			"mana_cost": "{3}",
 			"type": "Enchantment — Aura Technique  ",
 			"collector_number": "2",
 			"image_uris": {
@@ -1161,13 +1151,13 @@
 			}
 		},
 		{
-			"name": "CW09 4 MV(ERROR)",
+			"name": "CW09 4 MV Collecting Armourer",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Angel ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_CW09 4 MV(ERROR).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_CW09 4 MV Collecting Armourer.png"
 			}
 		},
 		{
@@ -1183,7 +1173,7 @@
 		{
 			"name": "UU08 Noncreature Arena's Atmoshpere",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Artifact",
 			"collector_number": "68",
 			"image_uris": {
@@ -1232,7 +1222,7 @@
 		},
 		{
 			"name": "UU06 Stolen Tactics",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
 			"collector_number": "66",
@@ -1241,13 +1231,13 @@
 			}
 		},
 		{
-			"name": "CU01 2 MV Capennan Importer(NEW ART)",
+			"name": "CU01 2 MV Capennan Importer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Pirate ",
+			"type": "Creature — Jackal Pirate ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/40_CU01 2 MV Capennan Importer(NEW ART).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/40_CU01 2 MV Capennan Importer.png"
 			}
 		},
 		{
@@ -1428,16 +1418,6 @@
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/179_UG04 Sural Handler.png"
-			}
-		},
-		{
-			"name": "CG13 Combat trick (power pump)",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "164",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_CG13 Combat trick (power pump).png"
 			}
 		},
 		{
@@ -1773,8 +1753,8 @@
 		{
 			"name": "CU14 Top or bottom spell Battlefield impingement",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/53_CU14 Top or bottom spell Battlefield impingement.png"
@@ -2073,7 +2053,7 @@
 		{
 			"name": "UU02 4 MV Splashing Critter",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Beast Warrior ",
 			"collector_number": "62",
 			"image_uris": {
@@ -2592,9 +2572,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spectator ",
-			"collector_number": "6",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_Spectator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_Spectator.png"
 			}
 		},
 		{
@@ -2602,9 +2582,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior ",
-			"collector_number": "4",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_Warrior.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/7_Warrior.png"
 			}
 		},
 		{
@@ -2612,9 +2592,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin ",
-			"collector_number": "5",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_Goblin.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/8_Goblin.png"
 			}
 		},
 		{
@@ -2668,23 +2648,23 @@
 			}
 		},
 		{
-			"name": "common land WG Garden",
+			"name": "common land WG Spellbound Garden",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/269_common land WG Garden.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/269_common land WG Spellbound Garden.png"
 			}
 		},
 		{
-			"name": "common land UR(NEWART)",
+			"name": "common land UR Geargrind Battledome",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_common land UR(NEWART).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_common land UR Geargrind Battledome.png"
 			}
 		},
 		{
@@ -2730,7 +2710,7 @@
 		{
 			"name": "UU05 Arena Pickpocket",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Dragon Rogue ",
 			"collector_number": "65",
 			"image_uris": {
@@ -2816,13 +2796,13 @@
 			}
 		},
 		{
-			"name": "RU06 Artistic Performance(ERROR)",
+			"name": "RU06 Artistic Performance",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/199_RU06 Artistic Performance(ERROR).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/199_RU06 Artistic Performance.png"
 			}
 		},
 		{
@@ -2848,7 +2828,7 @@
 		{
 			"name": "RM01 Axe of the Bloodscript",
 			"rarity": "rare",
-			"mana_cost": "{1}{B/R}",
+			"mana_cost": "{1{B}/R}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "233",
 			"image_uris": {
@@ -2871,6 +2851,136 @@
 			"image_uris": {
 				"en": "https://mrbluetie.github.io/sets/KEC-files/img/96_RB05 Krav, Love Crazed_front.png"
 			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_Goblin.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_Everywhere.png"
+			}
+		},
+		{
+			"name": "CB03 2 MV Fan Favourite",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_CB03 2 MV Fan Favourite.png"
+			}
+		},
+		{
+			"name": "CG13 Unvanquished Strength (power pump)",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_CG13 Unvanquished Strength (power pump).png"
+			}
+		},
+		{
+			"name": "Inkling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Inkling ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/10_Inkling.png"
+			}
+		},
+		{
+			"name": "Giant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Giant ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_Giant.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_Human.png"
+			}
+		},
+		{
+			"name": "CR07 4 OR 5 MV Pirouetting Ringster",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/278_CR07 4 OR 5 MV Pirouetting Ringster.png"
+			}
+		},
+		{
+			"name": "UU10 Noncreature Contender's Arrival",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/277_UU10 Noncreature Contender's Arrival.png"
+			}
+		},
+		{
+			"name": "RW07 Aurelia, Voice of Contest",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Angel Warrior ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/281_RW07 Aurelia, Voice of Contest.png"
+			}
+		},
+		{
+			"name": "RX13 Tournament Invitation",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/282_RX13 Tournament Invitation.png"
+			}
+		},
+		{
+			"name": "UR08 Noncreature Choose your Weapon",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/280_UR08 Noncreature Choose your Weapon.png"
+			}
+		},
+		{
+			"name": "MX02 Sylvia, of the Old Ways",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/279_MX02 Sylvia, of the Old Ways.png"
+			}
 		}
 	]
 [RareSlot(1)]
@@ -2880,9 +2990,9 @@
 2 RM01 WB Companion Innocuous Shield
 2 RM01 WG Companion Consecrated Longbow
 2 RM01 WR Companion Replicating Gauntlets
-2 RM01 RU Companion (ERROR)Chakram
+2 RM01 RU Companion Skyrend Chakram
 2 RM01 UB Companion Boots of Stealth
-2 RM01 RG companion Marksman'sShooter
+2 RM01 RG companion Marksman's Shooter
 2 RM01 WU Companion Trident of Tides
 2 RW05 Enchanting Wristlets
 2 RR05 Double Fist Barrage
@@ -2891,7 +3001,6 @@
 2 RB04 Inkfire Shelling
 2 RB02 Rules Infraction
 2 RW06 Arena Ministrator
-2 UU06 Stolen Tactics
 2 RX13 Tournament Invitation
 2 RR06 Swift Switchup
 2 RB01 Deadly Switchup
@@ -2930,7 +3039,7 @@
 2 RU05 Will, Slick Competitor
 2 RG01 Lunras, Rugged Contestant
 2 RW03 The Gladiatorial Wanderer
-2 RU06 Artistic Performance(ERROR)
+2 RU06 Artistic Performance
 2 RB06 Rakdos Conscript
 2 RM01 Axe of the Bloodscript
 2 RB05 Krav, Love Crazed
@@ -3014,6 +3123,7 @@
 9 UU08 Noncreature Arena's Atmoshpere
 9 UU04 Odds maker
 9 UU14 Noncreature Enochlophobia
+9 UU06 Stolen Tactics
 9 UA03 Weaponised Mech
 9 UB01 Necrosis Tanker
 9 UB08 Noncreature Defectless Blow
@@ -3057,7 +3167,6 @@
 9 UU05 Arena Pickpocket
 [CommonSlot(7)]
 30 CR12 Rummaging/impulsive draw Awesome Play
-30 CB03 2 MV Fan Favourite
 30 CW14 Combat trick Flying Kick
 30 CU11 Cantrip Use your Wits
 30 CR14 Direct damage (efficient, usually deals 4) Fulmination Punch
@@ -3068,7 +3177,7 @@
 30 CR05 3 MV Adrenaline Radical
 30 CR06 3 OR 4 MV MV Combat Lanista
 30 CR08 5 MV Groyv, Hulking Combatant CHECKKK
-30 CU10 Counterspell Counterflo
+30 CU10 Counterspell
 30 CU12 Draw spell (two to three cards) Deductive Procedure
 30 CU03 3 MV Kylan General
 30 CU02 2 MV Genius Cardcounter
@@ -3084,15 +3193,15 @@
 30 CB07 4 OR 5 MV Exploiter of Weakness
 30 CW01 1 MV Fans Beloved
 30 CW03 2 MV Lys Alana Legionnaire
-30 CG08 5 MV(NEWART)
+30 CG08 5 MV Orcish Stance-Bearer
 30 CB12 Card draw (added cost) Debasing Execution(Flavour)
 30 CA02 Foiling Block
 30 CW12 Combat-related removal Distraction Strategy
 30 CW13 Banishing Light Elspeth's Condemnation
-30 CW09 4 MV(ERROR)
+30 CW09 4 MV Collecting Armourer
 30 CU06 Ego Challenger
 30 CU04 Vigilant Gargoyle
-30 CU01 2 MV Capennan Importer(NEW ART)
+30 CU01 2 MV Capennan Importer
 30 CA05 Manalith+ abilityGlory Chimes
 30 CB05 3 MV Dockside Poisoner
 30 CB08 5 OR 6 MV Duel-Wielding Personality
@@ -3100,7 +3209,6 @@
 30 CR04 3 MV Reckless Rabble-Rouser
 30 CR15 Direct damage (five mana, 6 damage) Winning Punch
 30 CG03 2 MV Withstanding Contender
-30 CG13 Combat trick (power pump)
 30 CG06 3 OR 4 MV Exploiting Industrialist
 30 CG15 Dig for lands and/or creatures Fresh Arrival
 30 CG02 2 MV Market Upcomers
@@ -3137,6 +3245,8 @@
 30 CW06 MV 3 Cautious Showboat
 30 CR13 Modal Smash to Smithereens
 30 CB15 Slightly overcosted removal Finish Him
+30 CB03 2 MV Fan Favourite
+30 CG13 Unvanquished Strength (power pump)
 [WildcardSlot(2)]
 10 UM19 Payoff Tavern-Side Gambler
 10 UM17 Payoff Subterrene Herbalist
@@ -3156,16 +3266,15 @@
 10 UM09 Enabler Marketplace Bookie
 10 RG06 Intro Music
 10 CR12 Rummaging/impulsive draw Awesome Play
-10 CB03 2 MV Fan Favourite
 10 UR11 Noncreature Rile up the Crowd
 10 RR03 Three Cheers
 10 UG05 Part-Time Coward
 10 RM01 WB Companion Innocuous Shield
 10 RM01 WG Companion Consecrated Longbow
 10 RM01 WR Companion Replicating Gauntlets
-10 RM01 RU Companion (ERROR)Chakram
+10 RM01 RU Companion Skyrend Chakram
 10 RM01 UB Companion Boots of Stealth
-10 RM01 RG companion Marksman'sShooter
+10 RM01 RG companion Marksman's Shooter
 10 RM01 WU Companion Trident of Tides
 10 UR08 Noncreature Choose your Weapon
 10 UM01 Enabler Awning Guide
@@ -3188,7 +3297,7 @@
 10 UR04 Explosive Winner
 10 UR06 Primed Contender
 10 CR08 5 MV Groyv, Hulking Combatant CHECKKK
-10 CU10 Counterspell Counterflo
+10 CU10 Counterspell
 10 UU12 Noncreature Rebounding Lesson
 10 UU09 Noncreature Betting Station
 10 CU12 Draw spell (two to three cards) Deductive Procedure
@@ -3224,7 +3333,7 @@
 10 CW03 2 MV Lys Alana Legionnaire
 10 RW05 Enchanting Wristlets
 10 UU11 Noncreature Hostile Projection
-10 CG08 5 MV(NEWART)
+10 CG08 5 MV Orcish Stance-Bearer
 10 CB12 Card draw (added cost) Debasing Execution(Flavour)
 10 CA02 Foiling Block
 10 RR05 Double Fist Barrage
@@ -3247,7 +3356,7 @@
 10 UW14 Noncreature Felling Swing
 10 CW13 Banishing Light Elspeth's Condemnation
 10 RW06 Arena Ministrator
-10 CW09 4 MV(ERROR)
+10 CW09 4 MV Collecting Armourer
 10 UW12 Noncreature Emporer's Lounge
 10 UU08 Noncreature Arena's Atmoshpere
 10 CU06 Ego Challenger
@@ -3255,7 +3364,7 @@
 10 CU04 Vigilant Gargoyle
 10 UU14 Noncreature Enochlophobia
 10 UU06 Stolen Tactics
-10 CU01 2 MV Capennan Importer(NEW ART)
+10 CU01 2 MV Capennan Importer
 10 CA05 Manalith+ abilityGlory Chimes
 10 RX13 Tournament Invitation
 10 UA03 Weaponised Mech
@@ -3274,7 +3383,6 @@
 10 CR15 Direct damage (five mana, 6 damage) Winning Punch
 10 CG03 2 MV Withstanding Contender
 10 UG04 Sural Handler
-10 CG13 Combat trick (power pump)
 10 CG06 3 OR 4 MV Exploiting Industrialist
 10 CG15 Dig for lands and/or creatures Fresh Arrival
 10 UG14 Noncreature Gear Affix
@@ -3394,8 +3502,16 @@
 10 RU05 Will, Slick Competitor
 10 RG01 Lunras, Rugged Contestant
 10 RW03 The Gladiatorial Wanderer
-10 RU06 Artistic Performance(ERROR)
+10 RU06 Artistic Performance
 10 RB06 Rakdos Conscript
 10 RW07 Aurelia, Voice of Contest
 10 RM01 Axe of the Bloodscript
 10 RB05 Krav, Love Crazed
+10 CB03 2 MV Fan Favourite
+10 CG13 Unvanquished Strength (power pump)
+10 CR07 4 OR 5 MV Pirouetting Ringster
+10 UU10 Noncreature Contender's Arrival
+10 RW07 Aurelia, Voice of Contest
+10 RX13 Tournament Invitation
+10 UR08 Noncreature Choose your Weapon
+10 MX02 Sylvia, of the Old Ways
