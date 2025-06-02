@@ -1,53 +1,53 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "UM19 Payoff Tavern-Side Gambler",
+			"name": "Tavern-Side Gambler",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "231",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/231_UM19 Payoff Tavern-Side Gambler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/229_Tavern-Side Gambler.png"
 			}
 		},
 		{
-			"name": "UM17 Payoff Subterrene Herbalist",
+			"name": "Subterrene Herbalist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Human  Scientist ",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/229_UM17 Payoff Subterrene Herbalist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/228_Subterrene Herbalist.png"
 			}
 		},
 		{
-			"name": "UM04 Enabler Arena Kingpin",
+			"name": "Arena Kingpin",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Goblin Rogue ",
-			"collector_number": "216",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/216_UM04 Enabler Arena Kingpin.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/192_Arena Kingpin.png"
 			}
 		},
 		{
-			"name": "UM03 Enabler Screeching Coyote",
+			"name": "Screeching Coyote",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Jackal Warrior ",
-			"collector_number": "215",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/215_UM03 Enabler Screeching Coyote.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/224_Screeching Coyote.png"
 			}
 		},
 		{
-			"name": "UM18 Payoff Narcotic Manufacturer",
+			"name": "Narcotic Manufacturer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "230",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/230_UM18 Payoff Narcotic Manufacturer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/217_Narcotic Manufacturer.png"
 			}
 		},
 		{
@@ -61,163 +61,163 @@
 			}
 		},
 		{
-			"name": "UM06 Enabler Adamantine Shield",
+			"name": "Adamantine Shield",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
-			"collector_number": "218",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/218_UM06 Enabler Adamantine Shield.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/190_Adamantine Shield.png"
 			}
 		},
 		{
-			"name": "UM16 Payoff Patient Battler",
+			"name": "Patient Battler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Minotaur Warrior ",
-			"collector_number": "228",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/228_UM16 Payoff Patient Battler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/221_Patient Battler.png"
 			}
 		},
 		{
-			"name": "UM13 Enabler Instill Fear",
+			"name": "Instill Fear",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/225_UM13 Enabler Instill Fear.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/211_Instill Fear.png"
 			}
 		},
 		{
-			"name": "UM14 Payoff Number-One Follower",
+			"name": "Number-One Follower",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Gnome Citizen ",
-			"collector_number": "226",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/226_UM14 Payoff Number-One Follower.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/219_Number-One Follower.png"
 			}
 		},
 		{
-			"name": "UM12 Payoff Plated Deliverist",
+			"name": "Plated Deliverist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "224",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/224_UM12 Payoff Plated Deliverist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/222_Plated Deliverist.png"
 			}
 		},
 		{
-			"name": "UM07 Enabler Halo Renderer",
+			"name": "Halo Renderer",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Artifact",
-			"collector_number": "219",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/219_UM07 Enabler Halo Renderer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/208_Halo Renderer.png"
 			}
 		},
 		{
-			"name": "UM10 Enabler Brand of the Smith",
+			"name": "Brand of the Smith",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "222",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/222_UM10 Enabler Brand of the Smith.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/199_Brand of the Smith.png"
 			}
 		},
 		{
-			"name": "RG03 Rare equipment Blade of Skorbuth, of Many Warriors",
+			"name": "Skorbuth, of Many Warriors",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/247_RG03 Rare equipment Blade of Skorbuth, of Many Warriors.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/249_Skorbuth, of Many Warriors.png"
 			}
 		},
 		{
-			"name": "UM20 Payoff Blacksmith's Provision",
+			"name": "Blacksmith's Provision",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "232",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/232_UM20 Payoff Blacksmith's Provision.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/198_Blacksmith's Provision.png"
 			}
 		},
 		{
-			"name": "UM08 Enabler Halo Researcher",
+			"name": "Halo Researcher",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "220",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/220_UM08 Enabler Halo Researcher.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/209_Halo Researcher.png"
 			}
 		},
 		{
-			"name": "UM09 Enabler Marketplace Bookie",
+			"name": "Marketplace Bookie",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "221",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/221_UM09 Enabler Marketplace Bookie.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/213_Marketplace Bookie.png"
 			}
 		},
 		{
-			"name": "RG06 Intro Music",
+			"name": "Intro Music",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/174_RG06 Intro Music.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/167_Intro Music.png"
 			}
 		},
 		{
-			"name": "CR12 Rummaging/impulsive draw Awesome Play",
+			"name": "Rummaging/impulsive draw Awesome Play",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/122_CR12 Rummaging/impulsive draw Awesome Play.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/139_Rummaging/impulsive draw Awesome Play.png"
 			}
 		},
 		{
-			"name": "UR11 Noncreature Rile up the Crowd",
+			"name": "Rile up the Crowd",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/148_UR11 Noncreature Rile up the Crowd.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/138_Rile up the Crowd.png"
 			}
 		},
 		{
-			"name": "RR03 Three Cheers",
+			"name": "Three Cheers",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/132_RR03 Three Cheers.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/146_Three Cheers.png"
 			}
 		},
 		{
-			"name": "UG05 Part-Time Coward",
+			"name": "Part-Time Coward",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen Coward ",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/180_UG05 Part-Time Coward.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/179_Part-Time Coward.png"
 			}
 		},
 		{
@@ -231,453 +231,453 @@
 			}
 		},
 		{
-			"name": "RM01 WB Companion Innocuous Shield",
+			"name": "Innocuous Shield",
 			"rarity": "rare",
 			"mana_cost": "{1{W}/B}{W/B}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "239",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_RM01 WB Companion Innocuous Shield.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_Innocuous Shield.png"
 			}
 		},
 		{
-			"name": "RM01 WG Companion Consecrated Longbow",
+			"name": "Consecrated Longbow",
 			"rarity": "rare",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "240",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/240_RM01 WG Companion Consecrated Longbow.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/235_Consecrated Longbow.png"
 			}
 		},
 		{
-			"name": "RM01 WR Companion Replicating Gauntlets",
+			"name": "Replicating Gauntlets",
 			"rarity": "rare",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "241",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/241_RM01 WR Companion Replicating Gauntlets.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_Replicating Gauntlets.png"
 			}
 		},
 		{
-			"name": "RM01 RU Companion Skyrend Chakram",
+			"name": "Skyrend Chakram",
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "236",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/236_RM01 RU Companion Skyrend Chakram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/240_Skyrend Chakram.png"
 			}
 		},
 		{
-			"name": "RM01 UB Companion Boots of Stealth",
+			"name": "Boots of Stealth",
 			"rarity": "rare",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "237",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_RM01 UB Companion Boots of Stealth.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/234_Boots of Stealth.png"
 			}
 		},
 		{
-			"name": "RM01 RG companion Marksman's Shooter",
+			"name": "Marksman's Shooter",
 			"rarity": "rare",
 			"mana_cost": "{R/G}{R/G}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "235",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/235_RM01 RG companion Marksman's Shooter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_Marksman's Shooter.png"
 			}
 		},
 		{
-			"name": "RM01 WU Companion Trident of Tides",
+			"name": "Trident of Tides",
 			"rarity": "rare",
 			"mana_cost": "{1{W}/U}{W/U}",
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/242_RM01 WU Companion Trident of Tides.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/242_Trident of Tides.png"
 			}
 		},
 		{
-			"name": "UR08 Noncreature Choose your Weapon",
+			"name": "Choose your Weapon",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/145_UR08 Noncreature Choose your Weapon.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/115_Choose your Weapon.png"
 			}
 		},
 		{
-			"name": "UM01 Enabler Awning Guide",
+			"name": "Awning Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Spirit Advisor ",
-			"collector_number": "213",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/213_UM01 Enabler Awning Guide.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/196_Awning Guide.png"
 			}
 		},
 		{
-			"name": "UM11 Payoff Opportune Stand-In",
+			"name": "Opportune Stand-In",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "223",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/223_UM11 Payoff Opportune Stand-In.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/220_Opportune Stand-In.png"
 			}
 		},
 		{
-			"name": "CW14 Combat trick Flying Kick",
+			"name": "Flying Kick",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "17",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/17_CW14 Combat trick Flying Kick.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/28_Flying Kick.png"
 			}
 		},
 		{
-			"name": "UG11 Noncreature Ironbreaker Stance",
+			"name": "Ironbreaker Stance",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "186",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/186_UG11 Noncreature Ironbreaker Stance.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/168_Ironbreaker Stance.png"
 			}
 		},
 		{
-			"name": "CU11 Cantrip Use your Wits",
+			"name": "Cantrip Use your Wits",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "50",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/50_CU11 Cantrip Use your Wits.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/47_Cantrip Use your Wits.png"
 			}
 		},
 		{
-			"name": "CR14 Direct damage (efficient, usually deals 4) Fulmination Punch",
+			"name": "Fulmination Punch",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "124",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/124_CR14 Direct damage (efficient, usually deals 4) Fulmination Punch.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/128_Fulmination Punch.png"
 			}
 		},
 		{
-			"name": "CA03 6 MV Left Hook",
+			"name": "Left Hook",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Enchantment — Aura Technique  ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/3_CA03 6 MV Left Hook.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/3_Left Hook.png"
 			}
 		},
 		{
-			"name": "UB09 Noncreature False Surrender",
+			"name": "False Surrender",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "105",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/105_UB09 Noncreature False Surrender.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/88_False Surrender.png"
 			}
 		},
 		{
-			"name": "UW11 Noncreature Battlefield Conjuration",
+			"name": "Battlefield Conjuration",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "36",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/36_UW11 Noncreature Battlefield Conjuration.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/13_Battlefield Conjuration.png"
 			}
 		},
 		{
-			"name": "UM05 Enabler Unbothered Benefactor",
+			"name": "Unbothered Benefactor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "217",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/217_UM05 Enabler Unbothered Benefactor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/231_Unbothered Benefactor.png"
 			}
 		},
 		{
-			"name": "UM15 Payoff Extravagent Noble",
+			"name": "Extravagent Noble",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "227",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/227_UM15 Payoff Extravagent Noble.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/203_Extravagent Noble.png"
 			}
 		},
 		{
-			"name": "CR10 Direct damage (deals 2) Direful Slash",
+			"name": "Direful Slash",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/120_CR10 Direct damage (deals 2) Direful Slash.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/122_Direful Slash.png"
 			}
 		},
 		{
-			"name": "CR02 2 MV Confident Chalk",
+			"name": "Confident Chalk",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "112",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/112_CR02 2 MV Confident Chalk.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/118_Confident Chalk.png"
 			}
 		},
 		{
-			"name": "CR01 1 OR 2 MV Audacious Gladiator",
+			"name": "Audacious Gladiator",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "111",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/111_CR01 1 OR 2 MV Audacious Gladiator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/113_Audacious Gladiator.png"
 			}
 		},
 		{
-			"name": "CR05 3 MV Adrenaline Radical",
+			"name": "Adrenaline Radical",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Minotaur Warrior ",
-			"collector_number": "115",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/115_CR05 3 MV Adrenaline Radical.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/111_Adrenaline Radical.png"
 			}
 		},
 		{
-			"name": "CR06 3 OR 4 MV MV Combat Lanista",
+			"name": "Combat Lanista",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Advisor Warrior ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/116_CR06 3 OR 4 MV MV Combat Lanista.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/116_Combat Lanista.png"
 			}
 		},
 		{
-			"name": "UA05 Noncreature Worthy Blade",
+			"name": "Worthy Blade",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_UA05 Noncreature Worthy Blade.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/254_Worthy Blade.png"
 			}
 		},
 		{
-			"name": "UR04 Explosive Winner",
+			"name": "Explosive Winner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Tiefling Rogue ",
-			"collector_number": "141",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/141_UR04 Explosive Winner.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/125_Explosive Winner.png"
 			}
 		},
 		{
-			"name": "UR06 Primed Contender",
+			"name": "Primed Contender",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "143",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/143_UR06 Primed Contender.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/135_Primed Contender.png"
 			}
 		},
 		{
-			"name": "CR08 5 MV Groyv, Hulking Combatant CHECKKK",
+			"name": "Groyv, Hulking Combatant",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Giant Warrior ",
-			"collector_number": "118",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/118_CR08 5 MV Groyv, Hulking Combatant CHECKKK.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/130_Groyv, Hulking Combatant.png"
 			}
 		},
 		{
-			"name": "CU10 Counterspell",
+			"name": "Counterspell",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/49_CU10 Counterspell.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/50_Counterspell.png"
 			}
 		},
 		{
-			"name": "UU12 Noncreature Rebounding Lesson",
+			"name": "Rebounding Lesson",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/72_UU12 Noncreature Rebounding Lesson.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/62_Rebounding Lesson.png"
 			}
 		},
 		{
-			"name": "UU09 Noncreature Betting Station",
+			"name": "Betting Station",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
-			"collector_number": "69",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/69_UU09 Noncreature Betting Station.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/46_Betting Station.png"
 			}
 		},
 		{
-			"name": "CU12 Draw spell (two to three cards) Deductive Procedure",
+			"name": "Deductive Procedure",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/51_CU12 Draw spell (two to three cards) Deductive Procedure.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/51_Deductive Procedure.png"
 			}
 		},
 		{
-			"name": "CU03 3 MV Kylan General",
+			"name": "Kylan General",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "42",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/42_CU03 3 MV Kylan General.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/57_Kylan General.png"
 			}
 		},
 		{
-			"name": "CU02 2 MV Genius Cardcounter",
+			"name": "Genius Cardcounter",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "41",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/41_CU02 2 MV Genius Cardcounter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/55_Genius Cardcounter.png"
 			}
 		},
 		{
-			"name": "UU01 Delivery Jays",
+			"name": "Delivery Jays",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "61",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/61_UU01 Delivery Jays.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/52_Delivery Jays.png"
 			}
 		},
 		{
-			"name": "CG11 Fight spell Pillar Slam",
+			"name": "Fight spell Pillar Slam",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/162_CG11 Fight spell Pillar Slam.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/161_Fight spell Pillar Slam.png"
 			}
 		},
 		{
-			"name": "UG10 Noncreature Rowdy Crowd",
+			"name": "Rowdy Crowd",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "185",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/185_UG10 Noncreature Rowdy Crowd.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/181_Rowdy Crowd.png"
 			}
 		},
 		{
-			"name": "CG01 1 OR 2 MV Overdosed Lab Animal",
+			"name": "Overdosed Lab Animal",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Rat ",
-			"collector_number": "152",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/152_CG01 1 OR 2 MV Overdosed Lab Animal.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/178_Overdosed Lab Animal.png"
 			}
 		},
 		{
-			"name": "UG12 Noncreature Training Encampment",
+			"name": "Training Encampment",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "187",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/187_UG12 Noncreature Training Encampment.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/185_Training Encampment.png"
 			}
 		},
 		{
-			"name": "UG02 Inconspicuous Supplier",
+			"name": "Inconspicuous Supplier",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Demon Citizen ",
-			"collector_number": "177",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/177_UG02 Inconspicuous Supplier.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/166_Inconspicuous Supplier.png"
 			}
 		},
 		{
-			"name": "CG05 3 MV Fercious Lanista",
+			"name": "Fercious Lanista",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dwarf Advisor ",
-			"collector_number": "156",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/156_CG05 3 MV Fercious Lanista.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/159_Fercious Lanista.png"
 			}
 		},
 		{
-			"name": "UG06 Residue Feeder",
+			"name": "Residue Feeder",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Phyrexian Beast ",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/181_UG06 Residue Feeder.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/180_Residue Feeder.png"
 			}
 		},
 		{
-			"name": "UG01 Halo Prototyper",
+			"name": "Halo Prototyper",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "176",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/176_UG01 Halo Prototyper.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_Halo Prototyper.png"
 			}
 		},
 		{
-			"name": "CG14 Mana acceleration Nighttime Entertainment",
+			"name": "Nighttime Entertainment",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "165",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/165_CG14 Mana acceleration Nighttime Entertainment.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/175_Nighttime Entertainment.png"
 			}
 		},
 		{
-			"name": "CG04 3 MV Adaptable Fighter",
+			"name": "Adaptable Fighter",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "155",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/155_CG04 3 MV Adaptable Fighter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/152_Adaptable Fighter.png"
 			}
 		},
 		{
@@ -721,353 +721,353 @@
 			}
 		},
 		{
-			"name": "CB02 2 MV Blunt Suspect",
+			"name": "Blunt Suspect",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/76_CB02 2 MV Blunt Suspect.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/76_Blunt Suspect.png"
 			}
 		},
 		{
-			"name": "UB03 Ruthless Lanista",
+			"name": "Ruthless Lanista",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "99",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/99_UB03 Ruthless Lanista.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/105_Ruthless Lanista.png"
 			}
 		},
 		{
-			"name": "CB01 1 OR 2 MV Clawing Dueler",
+			"name": "Clawing Dueler",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Azra Warrior ",
-			"collector_number": "75",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/75_CB01 1 OR 2 MV Clawing Dueler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_Clawing Dueler.png"
 			}
 		},
 		{
-			"name": "UB02 Noxious Slugger",
+			"name": "Noxious Slugger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Alien Warrior ",
-			"collector_number": "98",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/98_UB02 Noxious Slugger.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/101_Noxious Slugger.png"
 			}
 		},
 		{
-			"name": "CB10 Small conditional removalHead bash",
+			"name": "Small conditional removalHead bash",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/84_CB10 Small conditional removalHead bash.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/108_Small conditional removalHead bash.png"
 			}
 		},
 		{
-			"name": "UB05 Sewer Dwelling Hoarder",
+			"name": "Sewer Dwelling Hoarder",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Dragon ",
-			"collector_number": "101",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/101_UB05 Sewer Dwelling Hoarder.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/107_Sewer Dwelling Hoarder.png"
 			}
 		},
 		{
-			"name": "UB07 Unwilling Exterminator",
+			"name": "Unwilling Exterminator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human  Warrior ",
-			"collector_number": "103",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/103_UB07 Unwilling Exterminator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/109_Unwilling Exterminator.png"
 			}
 		},
 		{
-			"name": "UB11 Noncreature Crippling Addiction",
+			"name": "Crippling Addiction",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "107",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/107_UB11 Noncreature Crippling Addiction.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/78_Crippling Addiction.png"
 			}
 		},
 		{
-			"name": "CB11 Combat trick Elbow Drop",
+			"name": "Elbow Drop",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/85_CB11 Combat trick Elbow Drop.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/85_Elbow Drop.png"
 			}
 		},
 		{
-			"name": "CB07 4 OR 5 MV Exploiter of Weakness",
+			"name": "Exploiter of Weakness",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "81",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/81_CB07 4 OR 5 MV Exploiter of Weakness.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/87_Exploiter of Weakness.png"
 			}
 		},
 		{
-			"name": "UB13 Noncreature Merciless Execution",
+			"name": "Merciless Execution",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/109_UB13 Noncreature Merciless Execution.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/98_Merciless Execution.png"
 			}
 		},
 		{
-			"name": "CW01 1 MV Fans Beloved",
+			"name": "Fans Beloved",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "4",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_CW01 1 MV Fans Beloved.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/26_Fans Beloved.png"
 			}
 		},
 		{
-			"name": "UA04 Noncreature Solus Malleous",
+			"name": "Solus Malleous",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "253",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/253_UA04 Noncreature Solus Malleous.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/250_Solus Malleous.png"
 			}
 		},
 		{
-			"name": "UW03 Lanista of Style",
+			"name": "Lanista of Style",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "28",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/28_UW03 Lanista of Style.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/34_Lanista of Style.png"
 			}
 		},
 		{
-			"name": "UW09 Armour Donor",
+			"name": "Armour Donor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Elf Artificer ",
-			"collector_number": "34",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/34_UW09 Armour Donor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_Armour Donor.png"
 			}
 		},
 		{
-			"name": "UW05 Narcissistic Fighter",
+			"name": "Narcissistic Fighter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "30",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/30_UW05 Narcissistic Fighter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/37_Narcissistic Fighter.png"
 			}
 		},
 		{
-			"name": "CW03 2 MV Lys Alana Legionnaire",
+			"name": "Lys Alana Legionnaire",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Warrior ",
-			"collector_number": "6",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_CW03 2 MV Lys Alana Legionnaire.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/35_Lys Alana Legionnaire.png"
 			}
 		},
 		{
-			"name": "RW05 Enchanting Wristlets",
+			"name": "Enchanting Wristlets",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/24_RW05 Enchanting Wristlets.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/23_Enchanting Wristlets.png"
 			}
 		},
 		{
-			"name": "UU11 Noncreature Hostile Projection",
+			"name": "Hostile Projection",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "71",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/71_UU11 Noncreature Hostile Projection.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/56_Hostile Projection.png"
 			}
 		},
 		{
-			"name": "CG08 5 MV Orcish Stance-Bearer",
+			"name": "Orcish Stance-Bearer",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Ogre Warrior ",
-			"collector_number": "159",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/159_CG08 5 MV Orcish Stance-Bearer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/177_Orcish Stance-Bearer.png"
 			}
 		},
 		{
-			"name": "CB12 Card draw (added cost) Debasing Execution(Flavour)",
+			"name": "Debasing Execution",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "86",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/86_CB12 Card draw (added cost) Debasing Execution(Flavour).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/80_Debasing Execution.png"
 			}
 		},
 		{
-			"name": "CA02 Foiling Block",
+			"name": "Foiling Block",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Enchantment — Aura Technique  ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/2_CA02 Foiling Block.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/2_Foiling Block.png"
 			}
 		},
 		{
-			"name": "RR05 Double Fist Barrage",
+			"name": "Double Fist Barrage",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "134",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/134_RR05 Double Fist Barrage.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/123_Double Fist Barrage.png"
 			}
 		},
 		{
-			"name": "RU04 Spattering Advance",
+			"name": "Spattering Advance",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "59",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/59_RU04 Spattering Advance.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/66_Spattering Advance.png"
 			}
 		},
 		{
-			"name": "RG05 Martial Macrocosm",
+			"name": "Martial Macrocosm",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/173_RG05 Martial Macrocosm.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/174_Martial Macrocosm.png"
 			}
 		},
 		{
-			"name": "RB04 Inkfire Shelling",
+			"name": "Inkfire Shelling",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "95",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/95_RB04 Inkfire Shelling.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/93_Inkfire Shelling.png"
 			}
 		},
 		{
-			"name": "RB02 Rules Infraction",
+			"name": "Rules Infraction",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/93_RB02 Rules Infraction.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/104_Rules Infraction.png"
 			}
 		},
 		{
-			"name": "MX10 X, Masked Persistence",
+			"name": "XÆ, Masked Persistence",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "196",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/196_MX10 X, Masked Persistence.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/232_XÆ, Masked Persistence.png"
 			}
 		},
 		{
-			"name": "UU10 Noncreature Contender's Arrival",
+			"name": "Contender's Arrival",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/70_UU10 Noncreature Contender's Arrival.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/49_Contender's Arrival.png"
 			}
 		},
 		{
-			"name": "UB04 Scandalous Contestant",
+			"name": "Scandalous Contestant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "100",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/100_UB04 Scandalous Contestant.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/106_Scandalous Contestant.png"
 			}
 		},
 		{
-			"name": "MR01 The Splash Zone",
+			"name": "The Splash Zone",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "126",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/126_MR01 The Splash Zone.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/142_The Splash Zone.png"
 			}
 		},
 		{
-			"name": "MX06 Let the Tournament Begin",
+			"name": "Let the Tournament Begin",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/169_MX06 Let the Tournament Begin.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/170_Let the Tournament Begin.png"
 			}
 		},
 		{
-			"name": "CW12 Combat-related removal Distraction Strategy",
+			"name": "Distraction Strategy",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/15_CW12 Combat-related removal Distraction Strategy.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/19_Distraction Strategy.png"
 			}
 		},
 		{
-			"name": "MX03 Combat Elightentment",
+			"name": "Combat Elightentment",
 			"rarity": "mythic",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "192",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/192_MX03 Combat Elightentment.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/201_Combat Elightentment.png"
 			}
 		},
 		{
-			"name": "MX05 Jetmir, Companion of Party",
+			"name": "Jetmir, Companion of Party",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Cat Demon ",
-			"collector_number": "194",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/194_MX05 Jetmir, Companion of Party.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/212_Jetmir, Companion of Party.png"
 			}
 		},
 		{
@@ -1081,383 +1081,383 @@
 			}
 		},
 		{
-			"name": "UW06 Quick Learner",
+			"name": "Quick Learner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human ",
-			"collector_number": "31",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/31_UW06 Quick Learner.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/38_Quick Learner.png"
 			}
 		},
 		{
-			"name": "UW10 Help Up",
+			"name": "Help Up",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/35_UW10 Help Up.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/30_Help Up.png"
 			}
 		},
 		{
-			"name": "UW04 Clashing Armament",
+			"name": "Clashing Armament",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human  Warrior ",
-			"collector_number": "29",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/29_UW04 Clashing Armament.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/15_Clashing Armament.png"
 			}
 		},
 		{
-			"name": "UW01 Inviting Challenger",
+			"name": "Inviting Challenger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "26",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/26_UW01 Inviting Challenger.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/32_Inviting Challenger.png"
 			}
 		},
 		{
-			"name": "UW14 Noncreature Felling Swing",
+			"name": "Felling Swing",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/39_UW14 Noncreature Felling Swing.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_Felling Swing.png"
 			}
 		},
 		{
-			"name": "CW13 Banishing Light Elspeth's Condemnation",
+			"name": "Elspeth's Condemnation",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "16",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/16_CW13 Banishing Light Elspeth's Condemnation.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/20_Elspeth's Condemnation.png"
 			}
 		},
 		{
-			"name": "RW06 Arena Ministrator",
+			"name": "Arena Ministrator",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Ogre Advisor ",
-			"collector_number": "25",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/25_RW06 Arena Ministrator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/7_Arena Ministrator.png"
 			}
 		},
 		{
-			"name": "CW09 4 MV Collecting Armourer",
+			"name": "Collecting Armourer",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "12",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_CW09 4 MV Collecting Armourer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/16_Collecting Armourer.png"
 			}
 		},
 		{
-			"name": "UW12 Noncreature Emporer's Lounge",
+			"name": "Emporer's Lounge",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "37",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/37_UW12 Noncreature Emporer's Lounge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/22_Emporer's Lounge.png"
 			}
 		},
 		{
-			"name": "UU08 Noncreature Arena's Atmoshpere",
+			"name": "Arena's Atmoshpere",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "68",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_UU08 Noncreature Arena's Atmoshpere.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/43_Arena's Atmoshpere.png"
 			}
 		},
 		{
-			"name": "CU06 Ego Challenger",
+			"name": "Ego Challenger",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Merfolk Citizen ",
-			"collector_number": "45",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/45_CU06 Ego Challenger.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/53_Ego Challenger.png"
 			}
 		},
 		{
-			"name": "UU04 Odds maker",
+			"name": "Odds maker",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Employee ",
-			"collector_number": "64",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/64_UU04 Odds maker.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/59_Odds maker.png"
 			}
 		},
 		{
-			"name": "CU04 Vigilant Gargoyle",
+			"name": "Vigilant Gargoyle",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Gargoyle ",
-			"collector_number": "43",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/43_CU04 Vigilant Gargoyle.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/71_Vigilant Gargoyle.png"
 			}
 		},
 		{
-			"name": "UU14 Noncreature Enochlophobia",
+			"name": "Enochlophobia",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "74",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/74_UU14 Noncreature Enochlophobia.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/54_Enochlophobia.png"
 			}
 		},
 		{
-			"name": "UU06 Stolen Tactics",
+			"name": "Stolen Tactics",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/66_UU06 Stolen Tactics.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/69_Stolen Tactics.png"
 			}
 		},
 		{
-			"name": "CU01 2 MV Capennan Importer",
+			"name": "Capennan Importer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Jackal Pirate ",
-			"collector_number": "40",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/40_CU01 2 MV Capennan Importer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/48_Capennan Importer.png"
 			}
 		},
 		{
-			"name": "CA05 Manalith+ abilityGlory Chimes",
+			"name": "Glory Chimes",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/244_CA05 Manalith+ abilityGlory Chimes.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/246_Glory Chimes.png"
 			}
 		},
 		{
-			"name": "RX13 Tournament Invitation",
+			"name": "Tournament Invitation",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/249_RX13 Tournament Invitation.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/252_Tournament Invitation.png"
 			}
 		},
 		{
-			"name": "UA03 Weaponised Mech",
+			"name": "Weaponised Mech",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/252_UA03 Weaponised Mech.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/253_Weaponised Mech.png"
 			}
 		},
 		{
-			"name": "UB01 Necrosis Tanker",
+			"name": "Necrosis Tanker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "97",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/97_UB01 Necrosis Tanker.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/100_Necrosis Tanker.png"
 			}
 		},
 		{
-			"name": "CB05 3 MV Dockside Poisoner",
+			"name": "Dockside Poisoner",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Octopus Citizen ",
-			"collector_number": "79",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/79_CB05 3 MV Dockside Poisoner.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/83_Dockside Poisoner.png"
 			}
 		},
 		{
-			"name": "CB08 5 OR 6 MV Duel-Wielding Personality",
+			"name": "Duel-Wielding Personality",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "82",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/82_CB08 5 OR 6 MV Duel-Wielding Personality.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/84_Duel-Wielding Personality.png"
 			}
 		},
 		{
-			"name": "UB08 Noncreature Defectless Blow",
+			"name": "Defectless Blow",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/104_UB08 Noncreature Defectless Blow.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/81_Defectless Blow.png"
 			}
 		},
 		{
-			"name": "CB14 Unconditional removal Impose Fear",
+			"name": "Impose Fear",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/88_CB14 Unconditional removal Impose Fear.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/92_Impose Fear.png"
 			}
 		},
 		{
-			"name": "UB12 Noncreature Warrior's Exoskeleton",
+			"name": "Warrior's Exoskeleton",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "108",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/108_UB12 Noncreature Warrior's Exoskeleton.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/110_Warrior's Exoskeleton.png"
 			}
 		},
 		{
-			"name": "UR01 Contestants Nightmare",
+			"name": "Contestants Nightmare",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Vampire Warrior ",
-			"collector_number": "138",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/138_UR01 Contestants Nightmare.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/120_Contestants Nightmare.png"
 			}
 		},
 		{
-			"name": "CR04 3 MV Reckless Rabble-Rouser",
+			"name": "Reckless Rabble-Rouser",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "114",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/114_CR04 3 MV Reckless Rabble-Rouser.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/137_Reckless Rabble-Rouser.png"
 			}
 		},
 		{
-			"name": "UR09 Upcoming Prospect",
+			"name": "Upcoming Prospect",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "146",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/146_UR09 Upcoming Prospect.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/148_Upcoming Prospect.png"
 			}
 		},
 		{
-			"name": "UR05 Odd's Favoured",
+			"name": "Odd's Favoured",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "142",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/142_UR05 Odd's Favoured.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/133_Odd's Favoured.png"
 			}
 		},
 		{
-			"name": "UR13 Noncreature Lucky Arrow",
+			"name": "Lucky Arrow",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "150",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/150_UR13 Noncreature Lucky Arrow.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/132_Lucky Arrow.png"
 			}
 		},
 		{
-			"name": "UR02 Crowd Side Bookie",
+			"name": "Crowd Side Bookie",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "139",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/139_UR02 Crowd Side Bookie.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/121_Crowd Side Bookie.png"
 			}
 		},
 		{
-			"name": "CR15 Direct damage (five mana, 6 damage) Winning Punch",
+			"name": "Winning Punch",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/125_CR15 Direct damage (five mana, 6 damage) Winning Punch.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/151_Winning Punch.png"
 			}
 		},
 		{
-			"name": "CG03 2 MV Withstanding Contender",
+			"name": "Withstanding Contender",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "154",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/154_CG03 2 MV Withstanding Contender.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/189_Withstanding Contender.png"
 			}
 		},
 		{
-			"name": "UG04 Sural Handler",
+			"name": "Sural Handler",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Soldier ",
-			"collector_number": "179",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/179_UG04 Sural Handler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/183_Sural Handler.png"
 			}
 		},
 		{
-			"name": "CG06 3 OR 4 MV Exploiting Industrialist",
+			"name": "Exploiting Industrialist",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Raccoon Noble ",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/157_CG06 3 OR 4 MV Exploiting Industrialist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/158_Exploiting Industrialist.png"
 			}
 		},
 		{
-			"name": "CG15 Dig for lands and/or creatures Fresh Arrival",
+			"name": "Fresh Arrival",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "166",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/166_CG15 Dig for lands and/or creatures Fresh Arrival.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/162_Fresh Arrival.png"
 			}
 		},
 		{
-			"name": "UG14 Noncreature Gear Affix",
+			"name": "Gear Affix",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "189",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/189_UG14 Noncreature Gear Affix.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/163_Gear Affix.png"
 			}
 		},
 		{
-			"name": "CG02 2 MV Market Upcomers",
+			"name": "Market Upcomers",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "153",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/153_CG02 2 MV Market Upcomers.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/173_Market Upcomers.png"
 			}
 		},
 		{
@@ -1481,1090 +1481,1090 @@
 			}
 		},
 		{
-			"name": "CW05 3 MV Crowd Surfer",
+			"name": "Crowd Surfer",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Goblin ",
-			"collector_number": "8",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/8_CW05 3 MV Crowd Surfer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/17_Crowd Surfer.png"
 			}
 		},
 		{
-			"name": "CW04 2 MV Arena Expert",
+			"name": "Arena Expert",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/7_CW04 2 MV Arena Expert.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/6_Arena Expert.png"
 			}
 		},
 		{
-			"name": "CW10 2 MV Ethereal Dueler",
+			"name": "Ethereal Dueler",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Angel Warrior ",
-			"collector_number": "13",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/13_CW10 2 MV Ethereal Dueler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/25_Ethereal Dueler.png"
 			}
 		},
 		{
-			"name": "UG03 Lanista of Balance",
+			"name": "Lanista of Balance",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "178",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/178_UG03 Lanista of Balance.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/169_Lanista of Balance.png"
 			}
 		},
 		{
-			"name": "RR06 Swift Switchup",
+			"name": "Swift Switchup",
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human ",
-			"collector_number": "135",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/135_RR06 Swift Switchup.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/144_Swift Switchup.png"
 			}
 		},
 		{
-			"name": "RB01 Deadly Switchup",
+			"name": "Deadly Switchup",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Giant ",
-			"collector_number": "92",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/92_RB01 Deadly Switchup.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/79_Deadly Switchup.png"
 			}
 		},
 		{
-			"name": "RU02 Voltaic Switchup",
+			"name": "Voltaic Switchup",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Robot ",
-			"collector_number": "57",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/57_RU02 Voltaic Switchup.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/72_Voltaic Switchup.png"
 			}
 		},
 		{
-			"name": "RW02 Admired Switchup",
+			"name": "Admired Switchup",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human ",
-			"collector_number": "21",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/21_RW02 Admired Switchup.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/4_Admired Switchup.png"
 			}
 		},
 		{
-			"name": "RG02 Brawny Switchup",
+			"name": "Brawny Switchup",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Human ",
-			"collector_number": "171",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/171_RG02 Brawny Switchup.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/154_Brawny Switchup.png"
 			}
 		},
 		{
-			"name": "RR02 Elspeths Kidnapping",
+			"name": "Elspeths Kidnapping",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/131_RR02 Elspeths Kidnapping.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/124_Elspeths Kidnapping.png"
 			}
 		},
 		{
-			"name": "MB02 Demonic Influence",
+			"name": "Demonic Influence",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "91",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/91_MB02 Demonic Influence.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/82_Demonic Influence.png"
 			}
 		},
 		{
-			"name": "RU01 Ticketless Spectators",
+			"name": "Ticketless Spectators",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human  ",
-			"collector_number": "56",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/56_RU01 Ticketless Spectators.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/70_Ticketless Spectators.png"
 			}
 		},
 		{
-			"name": "UW02 Engraver of Champions",
+			"name": "Engraver of Champions",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric ",
-			"collector_number": "27",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/27_UW02 Engraver of Champions.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/24_Engraver of Champions.png"
 			}
 		},
 		{
-			"name": "MX07 Arena Camera",
+			"name": "Arena Camera",
 			"rarity": "mythic",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact Creature — Thopter ",
-			"collector_number": "246",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/246_MX07 Arena Camera.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/244_Arena Camera.png"
 			}
 		},
 		{
-			"name": "MG01 Nissa, Peaceful Participant",
+			"name": "Nissa, Peaceful Participant",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Elf Druid ",
-			"collector_number": "167",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/167_MG01 Nissa, Peaceful Participant.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/176_Nissa, Peaceful Participant.png"
 			}
 		},
 		{
-			"name": "MW02 Autonomous Aquisition",
+			"name": "Autonomous Aquisition",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/19_MW02 Autonomous Aquisition.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/11_Autonomous Aquisition.png"
 			}
 		},
 		{
-			"name": "RW01 Alarielle, of Valors Reach",
+			"name": "Alarielle, of Valors Reach",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Angel ",
-			"collector_number": "20",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/20_RW01 Alarielle, of Valors Reach.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_Alarielle, of Valors Reach.png"
 			}
 		},
 		{
-			"name": "RU07 Forlorn Opposer",
+			"name": "Forlorn Opposer",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Azra Warrior ",
-			"collector_number": "200",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/200_RU07 Forlorn Opposer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/205_Forlorn Opposer.png"
 			}
 		},
 		{
-			"name": "MX01 Arena Obstructions",
+			"name": "Arena Obstructions",
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "191",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/191_MX01 Arena Obstructions.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/193_Arena Obstructions.png"
 			}
 		},
 		{
-			"name": "RX11 The Arena of Valors Reach",
+			"name": "The Arena of Valors Reach",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/256_RX11 The Arena of Valors Reach.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/255_The Arena of Valors Reach.png"
 			}
 		},
 		{
-			"name": "CW02 Crusader of Celebration",
+			"name": "Crusader of Celebration",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dragon ",
-			"collector_number": "5",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/5_CW02 Crusader of Celebration.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/18_Crusader of Celebration.png"
 			}
 		},
 		{
-			"name": "CW07 4 MV Mentor of Respect",
+			"name": "Mentor of Respect",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Noble ",
-			"collector_number": "10",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/10_CW07 4 MV Mentor of Respect.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/36_Mentor of Respect.png"
 			}
 		},
 		{
-			"name": "UW13 Noncreature Elspeths Protection",
+			"name": "Elspeths Protection",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/38_UW13 Noncreature Elspeths Protection.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/21_Elspeths Protection.png"
 			}
 		},
 		{
-			"name": "CW15 Disenchant/removal spell Battering Ram",
+			"name": "Battering Ram",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "18",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/18_CW15 Disenchant/removal spell Battering Ram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/12_Battering Ram.png"
 			}
 		},
 		{
-			"name": "CU07 5 OR 6 MV Arena Infiltrator",
+			"name": "Arena Infiltrator",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Spirit Rogue ",
-			"collector_number": "46",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/46_CU07 5 OR 6 MV Arena Infiltrator.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/40_Arena Infiltrator.png"
 			}
 		},
 		{
-			"name": "CU08 6 OR 7 MV Arena Steward",
+			"name": "Arena Steward",
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Giant ",
-			"collector_number": "47",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/47_CU08 6 OR 7 MV Arena Steward.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/42_Arena Steward.png"
 			}
 		},
 		{
-			"name": "CU13 Sidelined",
+			"name": "Sidelined",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "52",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/52_CU13 Sidelined.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/65_Sidelined.png"
 			}
 		},
 		{
-			"name": "CU14 Top or bottom spell Battlefield impingement",
+			"name": "Battlefield impingement",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/53_CU14 Top or bottom spell Battlefield impingement.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/45_Battlefield impingement.png"
 			}
 		},
 		{
-			"name": "CU09 Protective instant(Battle Reflexes",
+			"name": "Battle Reflexes",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/48_CU09 Protective instant(Battle Reflexes.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/44_Battle Reflexes.png"
 			}
 		},
 		{
-			"name": "MB01 Match Fixing",
+			"name": "Match Fixing",
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/90_MB01 Match Fixing.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/96_Match Fixing.png"
 			}
 		},
 		{
-			"name": "UW07 Spirit of Competition",
+			"name": "Spirit of Competition",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit ",
-			"collector_number": "32",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/32_UW07 Spirit of Competition.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/39_Spirit of Competition.png"
 			}
 		},
 		{
-			"name": "CB04 3 MV Roving Eternal",
+			"name": "Roving Eternal",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Jackal Warrior ",
-			"collector_number": "78",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/78_CB04 3 MV Roving Eternal.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/103_Roving Eternal.png"
 			}
 		},
 		{
-			"name": "CB06 4 MV Bellicrose Whirler",
+			"name": "Bellicrose Whirler",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "80",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/80_CB06 4 MV Bellicrose Whirler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/75_Bellicrose Whirler.png"
 			}
 		},
 		{
-			"name": "CB13 Coercion+ Mind Games",
+			"name": "Mind Games",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "87",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/87_CB13 Coercion+ Mind Games.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/99_Mind Games.png"
 			}
 		},
 		{
-			"name": "UB10 Noncreature Regnas Captivity",
+			"name": "Regnas Captivity",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "106",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/106_UB10 Noncreature Regnas Captivity.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/102_Regnas Captivity.png"
 			}
 		},
 		{
-			"name": "CR03 2 MV Flare Spewer",
+			"name": "Flare Spewer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Warrior ",
-			"collector_number": "113",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/113_CR03 2 MV Flare Spewer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/127_Flare Spewer.png"
 			}
 		},
 		{
-			"name": "CR07 4 OR 5 MV Pirouetting Ringster",
+			"name": "Pirouetting Ringster",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "117",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/117_CR07 4 OR 5 MV Pirouetting Ringster.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/134_Pirouetting Ringster.png"
 			}
 		},
 		{
-			"name": "CR09 6 MV Pummeling High-Roller",
+			"name": "Pummeling High-Roller",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Orc Warrior ",
-			"collector_number": "119",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/119_CR09 6 MV Pummeling High-Roller.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/136_Pummeling High-Roller.png"
 			}
 		},
 		{
-			"name": "CR11 Combat trick Sharp lunge",
+			"name": "Combat trick Sharp lunge",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/121_CR11 Combat trick Sharp lunge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/117_Combat trick Sharp lunge.png"
 			}
 		},
 		{
-			"name": "CG07 4 OR 5 MV Arena Security",
+			"name": "Arena Security",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Giant ",
-			"collector_number": "158",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/158_CG07 4 OR 5 MV Arena Security.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/153_Arena Security.png"
 			}
 		},
 		{
-			"name": "CG12 Bite spell Ferocious Incision",
+			"name": "Ferocious Incision",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/163_CG12 Bite spell Ferocious Incision.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/160_Ferocious Incision.png"
 			}
 		},
 		{
-			"name": "CA01 Adorned Rapier",
+			"name": "Adorned Rapier",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/1_CA01 Adorned Rapier.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/1_Adorned Rapier.png"
 			}
 		},
 		{
-			"name": "CA04 Removal Contenders Teapot",
+			"name": "Removal Contenders Teapot",
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Halo ",
-			"collector_number": "243",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/243_CA04 Removal Contenders Teapot.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/248_Removal Contenders Teapot.png"
 			}
 		},
 		{
-			"name": "UA01 Offworld Traveler",
+			"name": "Offworld Traveler",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Shapeshifter ",
-			"collector_number": "250",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/250_UA01 Offworld Traveler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/247_Offworld Traveler.png"
 			}
 		},
 		{
-			"name": "RX07 Archetype Rare RG Stand Renovations",
+			"name": "Stand Renovations",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "207",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/207_RX07 Archetype Rare RG Stand Renovations.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/226_Stand Renovations.png"
 			}
 		},
 		{
-			"name": "UR07 Scandalous Gambler",
+			"name": "Scandalous Gambler",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "144",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/144_UR07 Scandalous Gambler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/140_Scandalous Gambler.png"
 			}
 		},
 		{
-			"name": "RW04 Arnaud, Arena Mechacaster",
+			"name": "Arnaud, Arena Mechacaster",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Hamster ",
-			"collector_number": "23",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/23_RW04 Arnaud, Arena Mechacaster.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/10_Arnaud, Arena Mechacaster.png"
 			}
 		},
 		{
-			"name": "MG02 Halo Weapaniser",
+			"name": "Halo Weapaniser",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Vedalken Scientist ",
-			"collector_number": "168",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/168_MG02 Halo Weapaniser.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/165_Halo Weapaniser.png"
 			}
 		},
 		{
-			"name": "RR04 Arena Battlecaster",
+			"name": "Arena Battlecaster",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "133",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/133_RR04 Arena Battlecaster.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/112_Arena Battlecaster.png"
 			}
 		},
 		{
-			"name": "RB07 Ghverth, Combat Puppeteer",
+			"name": "Ghverth, Combat Puppeteer",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "198",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/198_RB07 Ghverth, Combat Puppeteer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/206_Ghverth, Combat Puppeteer.png"
 			}
 		},
 		{
-			"name": "MX09 Gurrok, Mysterious Fan",
+			"name": "Gurrok, Mysterious Fan",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Shapeshifter ",
-			"collector_number": "195",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/195_MX09 Gurrok, Mysterious Fan.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/207_Gurrok, Mysterious Fan.png"
 			}
 		},
 		{
-			"name": "UR03 Halo Infuser",
+			"name": "Halo Infuser",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Azra ",
-			"collector_number": "140",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/140_UR03 Halo Infuser.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/131_Halo Infuser.png"
 			}
 		},
 		{
-			"name": "CA06 Land fixing Sponsors Lounge",
+			"name": "Sponsors Lounge",
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "245",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/245_CA06 Land fixing Sponsors Lounge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/251_Sponsors Lounge.png"
 			}
 		},
 		{
-			"name": "CG09 6 MV Sweeping Buckaroo",
+			"name": "Sweeping Buckaroo",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Rat Warrior ",
-			"collector_number": "160",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/160_CG09 6 MV Sweeping Buckaroo.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/184_Sweeping Buckaroo.png"
 			}
 		},
 		{
-			"name": "CG10 6 OR 7 MV Tusked Contestor",
+			"name": "Tusked Contestor",
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Human Elk Warrior ",
-			"collector_number": "161",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/161_CG10 6 OR 7 MV Tusked Contestor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/186_Tusked Contestor.png"
 			}
 		},
 		{
-			"name": "UU07 3 MV Zealous Javelinist",
+			"name": "Zealous Javelinist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "67",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/67_UU07 3 MV Zealous Javelinist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/74_Zealous Javelinist.png"
 			}
 		},
 		{
-			"name": "CU05 3 MV Perspective Dueler",
+			"name": "Perspective Dueler",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Ogre Wizard ",
-			"collector_number": "44",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/44_CU05 3 MV Perspective Dueler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/60_Perspective Dueler.png"
 			}
 		},
 		{
-			"name": "UU02 4 MV Splashing Critter",
+			"name": "Splashing Critter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Beast Warrior ",
-			"collector_number": "62",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/62_UU02 4 MV Splashing Critter.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/67_Splashing Critter.png"
 			}
 		},
 		{
-			"name": "RG07 Lone-Sword Tavern Bartender",
+			"name": "Lone-Sword Tavern Bartender",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "175",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/175_RG07 Lone-Sword Tavern Bartender.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/171_Lone-Sword Tavern Bartender.png"
 			}
 		},
 		{
-			"name": "CU15 Modal spell Staking Collateral",
+			"name": "Staking Collateral",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/54_CU15 Modal spell Staking Collateral.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/68_Staking Collateral.png"
 			}
 		},
 		{
-			"name": "CW08 4 MV Arena Stylist",
+			"name": "Arena Stylist",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human ",
-			"collector_number": "11",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/11_CW08 4 MV Arena Stylist.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/8_Arena Stylist.png"
 			}
 		},
 		{
-			"name": "CB09 6 OR 7 MV Halo Reverser",
+			"name": "Halo Reverser",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Giant ",
-			"collector_number": "83",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/83_CB09 6 OR 7 MV Halo Reverser.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/91_Halo Reverser.png"
 			}
 		},
 		{
-			"name": "CW11 6 OR 7 MV Interval Revelry",
+			"name": "Interval Revelry",
 			"rarity": "common",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Creature — Horse ",
-			"collector_number": "14",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/14_CW11 6 OR 7 MV Interval Revelry.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/31_Interval Revelry.png"
 			}
 		},
 		{
-			"name": "UU03 Lanista of Patience",
+			"name": "Lanista of Patience",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Advisor  ",
-			"collector_number": "63",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/63_UU03 Lanista of Patience.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/58_Lanista of Patience.png"
 			}
 		},
 		{
-			"name": "MX08 Tomb of Valor",
+			"name": "Tomb of Valor",
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/255_MX08 Tomb of Valor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/261_Tomb of Valor.png"
 			}
 		},
 		{
-			"name": "UW08 Isamaru, Hound of Konda",
+			"name": "Isamaru, Hound of Konda",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Dog ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/33_UW08 Isamaru, Hound of Konda.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/33_Isamaru, Hound of Konda.png"
 			}
 		},
 		{
-			"name": "UG13 Noncreature Bursting Kick",
+			"name": "Bursting Kick",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "188",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/188_UG13 Noncreature Bursting Kick.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/155_Bursting Kick.png"
 			}
 		},
 		{
-			"name": "UG07 Vermin Smasher",
+			"name": "Vermin Smasher",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Insect Warrior ",
-			"collector_number": "182",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/182_UG07 Vermin Smasher.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/188_Vermin Smasher.png"
 			}
 		},
 		{
-			"name": "UG08 Stray Tamer",
+			"name": "Stray Tamer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/183_UG08 Stray Tamer.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/182_Stray Tamer.png"
 			}
 		},
 		{
-			"name": "UR12 Noncreature Win Together",
+			"name": "Win Together",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/149_UR12 Noncreature Win Together.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/150_Win Together.png"
 			}
 		},
 		{
-			"name": "UG09 Dwelling Refiller",
+			"name": "Dwelling Refiller",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "184",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/184_UG09 Dwelling Refiller.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/156_Dwelling Refiller.png"
 			}
 		},
 		{
-			"name": "CW06 MV 3 Cautious Showboat",
+			"name": "Cautious Showboat",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "9",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/9_CW06 MV 3 Cautious Showboat.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/14_Cautious Showboat.png"
 			}
 		},
 		{
-			"name": "RX12 Fatal Usurp",
+			"name": "Fatal Usurp",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/211_RX12 Fatal Usurp.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/204_Fatal Usurp.png"
 			}
 		},
 		{
-			"name": "UR14 Noncreature Tour the Forge",
+			"name": "Tour the Forge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "151",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/151_UR14 Noncreature Tour the Forge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/147_Tour the Forge.png"
 			}
 		},
 		{
-			"name": "CR13 Modal Smash to Smithereens",
+			"name": "Smash to Smithereens",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/123_CR13 Modal Smash to Smithereens.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/141_Smash to Smithereens.png"
 			}
 		},
 		{
-			"name": "UU13 Noncreature Rain of Victory",
+			"name": "Rain of Victory",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/73_UU13 Noncreature Rain of Victory.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/61_Rain of Victory.png"
 			}
 		},
 		{
-			"name": "UA02 Arena Vendor",
+			"name": "Arena Vendor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "251",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/251_UA02 Arena Vendor.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/245_Arena Vendor.png"
 			}
 		},
 		{
-			"name": "UB14 Noncreature Enter the Arena",
+			"name": "Enter the Arena",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/110_UB14 Noncreature Enter the Arena.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/86_Enter the Arena.png"
 			}
 		},
 		{
-			"name": "MR02 Victory Speech",
+			"name": "Victory Speech",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/127_MR02 Victory Speech.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/149_Victory Speech.png"
 			}
 		},
 		{
-			"name": "UM02 Enabler Illicit Payment",
+			"name": "Illicit Payment",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "214",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/214_UM02 Enabler Illicit Payment.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/210_Illicit Payment.png"
 			}
 		},
 		{
-			"name": "UR10 Noncreature Fiery Lunge",
+			"name": "Fiery Lunge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura Technique  ",
-			"collector_number": "147",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/147_UR10 Noncreature Fiery Lunge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/126_Fiery Lunge.png"
 			}
 		},
 		{
-			"name": "RG04 Enabling Synergism",
+			"name": "Enabling Synergism",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "172",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/172_RG04 Enabling Synergism.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/157_Enabling Synergism.png"
 			}
 		},
 		{
-			"name": "MW01 1 Ajani, Redeemed Fighter",
+			"name": "Ajani, Redeemed Fighter",
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Ajani ",
-			"collector_number": "190",
+			"collector_number": "191",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/190_MW01 1 Ajani, Redeemed Fighter_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/191_Ajani, Redeemed Fighter_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/190_MW01 1 Ajani, Redeemed Fighter_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/191_Ajani, Redeemed Fighter_front.png"
 			}
 		},
 		{
-			"name": "UB06 Mentor's Challenge",
+			"name": "Mentor's Challenge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/102_UB06 Mentor's Challenge.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/97_Mentor's Challenge.png"
 			}
 		},
 		{
-			"name": "CB15 Slightly overcosted removal Finish Him",
+			"name": "Finish Him",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/89_CB15 Slightly overcosted removal Finish Him.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/90_Finish Him.png"
 			}
 		},
 		{
-			"name": "RX08 BG Archetype Rare BG Nightshade Amplifier",
+			"name": "Nightshade Amplifier",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Elf Druid ",
-			"collector_number": "208",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/208_RX08 BG Archetype Rare BG Nightshade Amplifier.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/218_Nightshade Amplifier.png"
 			}
 		},
 		{
-			"name": "RX10 UG Archetype Rare Merchandising Opiate",
+			"name": "Merchandising Opiate",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "210",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/210_RX10 UG Archetype Rare Merchandising Opiate.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/214_Merchandising Opiate.png"
 			}
 		},
 		{
-			"name": "MU01 Run it Back",
+			"name": "Run it Back",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "55",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/55_MU01 Run it Back.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/63_Run it Back.png"
 			}
 		},
 		{
-			"name": "MU02 Contention Tyrant",
+			"name": "Contention Tyrant",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Creature — Djinn ",
-			"collector_number": "128",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/128_MU02 Contention Tyrant.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/119_Contention Tyrant.png"
 			}
 		},
 		{
-			"name": "RX01 Announcement Tower",
+			"name": "Announcement Tower",
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/248_RX01 Announcement Tower.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/243_Announcement Tower.png"
 			}
 		},
 		{
-			"name": "RM01 UG Companion Sword of Terra",
+			"name": "Sword of Terra",
 			"rarity": "rare",
 			"mana_cost": "{G/U}{G/U}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "238",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_RM01 UG Companion Sword of Terra.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/241_Sword of Terra.png"
 			}
 		},
 		{
-			"name": "RM01 BG Companion Pact-Sword",
+			"name": "Pact-Sword",
 			"rarity": "rare",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "234",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/234_RM01 BG Companion Pact-Sword.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_Pact-Sword.png"
 			}
 		},
 		{
-			"name": "RX03 Archetype Rare WG Enchanting Shield",
+			"name": "Enchanting Shield",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/203_RX03 Archetype Rare WG Enchanting Shield.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/202_Enchanting Shield.png"
 			}
 		},
 		{
-			"name": "RX04 Archetype Rare WU Stasis Effigy",
+			"name": "Stasis Effigy",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "204",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/204_RX04 Archetype Rare WU Stasis Effigy.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/227_Stasis Effigy.png"
 			}
 		},
 		{
-			"name": "RX05 Archetype Rare UR Money Where Your Mouth is",
+			"name": "Money here Your Mouth is",
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/205_RX05 Archetype Rare UR Money Where Your Mouth is.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/215_Money here Your Mouth is.png"
 			}
 		},
 		{
-			"name": "RX06 Archetype Rare WB Battle Sisters",
+			"name": "Battle Sisters",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "206",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/206_RX06 Archetype Rare WB Battle Sisters.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/197_Battle Sisters.png"
 			}
 		},
 		{
-			"name": "RX02 Archetype Rare UB Smugglers Vessel",
+			"name": "Smugglers Vessel",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact — Vehicle  ",
-			"collector_number": "202",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/202_RX02 Archetype Rare UB Smugglers Vessel.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/225_Smugglers Vessel.png"
 			}
 		},
 		{
-			"name": "RX14 Squee, Lifelong Addict",
+			"name": "Squee, Lifelong Addict",
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Goblin ",
-			"collector_number": "137",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/137_RX14 Squee, Lifelong Addict.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/143_Squee, Lifelong Addict.png"
 			}
 		},
 		{
-			"name": "RR01 Gambling Den",
+			"name": "Gambling Den",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/130_RR01 Gambling Den.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/129_Gambling Den.png"
 			}
 		},
 		{
-			"name": "MX02 Sylvia, of the Old Ways",
+			"name": "Sylvia, of the Old Ways",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Knight ",
-			"collector_number": "129",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/129_MX02 Sylvia, of the Old Ways.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/145_Sylvia, of the Old Ways.png"
 			}
 		},
 		{
-			"name": "MX04 Najeela, Warrior Bride",
+			"name": "Najeela, Warrior Bride",
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Warrior Noble ",
-			"collector_number": "193",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/193_MX04 Najeela, Warrior Bride.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/216_Najeela, Warrior Bride.png"
 			}
 		},
 		{
-			"name": "UA06 Uncommon Land Cycle Sinsiter Cirque",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "257",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/257_UA06 Uncommon Land Cycle Sinsiter Cirque.png"
-			}
-		},
-		{
-			"name": "UA07 Uncommon Land Cycle Glacial Platform",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/258_UA07 Uncommon Land Cycle Glacial Platform.png"
-			}
-		},
-		{
-			"name": "UA08 Uncommon Land Cycle Penitentiary Hangar",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/259_UA08 Uncommon Land Cycle Penitentiary Hangar.png"
-			}
-		},
-		{
-			"name": "UA09 Uncommon Land Cycle Battle Colosseum",
+			"name": "Sinsiter Cirque",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/260_UA09 Uncommon Land Cycle Battle Colosseum.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/260_Sinsiter Cirque.png"
 			}
 		},
 		{
-			"name": "UA10 Uncommon lower Level Fight-Club",
+			"name": "Glacial Platform",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/261_UA10 Uncommon lower Level Fight-Club.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/257_Glacial Platform.png"
 			}
 		},
 		{
-			"name": "RU03 Santus, Talruvia's Champion",
+			"name": "Penitentiary Hangar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/259_Penitentiary Hangar.png"
+			}
+		},
+		{
+			"name": "Battle Colosseum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/256_Battle Colosseum.png"
+			}
+		},
+		{
+			"name": "Level Fight-Club",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/258_Level Fight-Club.png"
+			}
+		},
+		{
+			"name": "Santus, Talruvia's Champion",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Merfolk Warrior ",
-			"collector_number": "58",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/58_RU03 Santus, Talruvia's Champion.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/64_Santus, Talruvia's Champion.png"
 			}
 		},
 		{
-			"name": "RX15 Brulte, Baron of Tarkov",
+			"name": "Brulte, Baron of Tarkov",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Dwarf  Warrior ",
-			"collector_number": "212",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/212_RX15 Brulte, Baron of Tarkov.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/200_Brulte, Baron of Tarkov.png"
 			}
 		},
 		{
@@ -2598,258 +2598,258 @@
 			}
 		},
 		{
-			"name": "common land WR Virtuous Amphitheatre",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/270_common land WR Virtuous Amphitheatre.png"
-			}
-		},
-		{
-			"name": "common land WUAuditorium of Order",
+			"name": "Virtuous Amphitheatre",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/271_common land WUAuditorium of Order.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/271_Virtuous Amphitheatre.png"
 			}
 		},
 		{
-			"name": "common land WB Tarnished Auditorium",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/268_common land WB Tarnished Auditorium.png"
-			}
-		},
-		{
-			"name": "common land GU Thrilling Venue",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/263_common land GU Thrilling Venue.png"
-			}
-		},
-		{
-			"name": "common land UB Kingpin Enclosure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_common land UB Kingpin Enclosure.png"
-			}
-		},
-		{
-			"name": "common land WG Spellbound Garden",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/269_common land WG Spellbound Garden.png"
-			}
-		},
-		{
-			"name": "common land UR Geargrind Battledome",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_common land UR Geargrind Battledome.png"
-			}
-		},
-		{
-			"name": "common land RB Cataclysmic Circuit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "264",
-			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_common land RB Cataclysmic Circuit.png"
-			}
-		},
-		{
-			"name": "common land BG Landform Pit",
+			"name": "Auditorium of Order",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/262_common land BG Landform Pit.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/262_Auditorium of Order.png"
 			}
 		},
 		{
-			"name": "common land RG Clifftop Stadium",
+			"name": "Tarnished Auditorium",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/269_Tarnished Auditorium.png"
+			}
+		},
+		{
+			"name": "Thrilling Venue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/270_Thrilling Venue.png"
+			}
+		},
+		{
+			"name": "Kingpin Enclosure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/266_Kingpin Enclosure.png"
+			}
+		},
+		{
+			"name": "Spellbound Garden",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/268_Spellbound Garden.png"
+			}
+		},
+		{
+			"name": "Geargrind Battledome",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/265_common land RG Clifftop Stadium.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/265_Geargrind Battledome.png"
 			}
 		},
 		{
-			"name": "RB03 Irascible Dueler",
+			"name": "Cataclysmic Circuit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/263_Cataclysmic Circuit.png"
+			}
+		},
+		{
+			"name": "Landform Pit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/267_Landform Pit.png"
+			}
+		},
+		{
+			"name": "Clifftop Stadium",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/264_Clifftop Stadium.png"
+			}
+		},
+		{
+			"name": "Irascible Dueler",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/94_RB03 Irascible Dueler.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/94_Irascible Dueler.png"
 			}
 		},
 		{
-			"name": "UU05 Arena Pickpocket",
+			"name": "Arena Pickpocket",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Dragon Rogue ",
-			"collector_number": "65",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/65_UU05 Arena Pickpocket.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/41_Arena Pickpocket.png"
 			}
 		},
 		{
-			"name": "RX09 Archetype WB Top of the Pile",
+			"name": "Top of the Pile",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "209",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/209_RX09 Archetype WB Top of the Pile.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/230_Top of the Pile.png"
 			}
 		},
 		{
-			"name": "RR07 Calimh, Najeelas Aid",
+			"name": "Calimh, Najeelas Aid",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "136",
+			"collector_number": "114",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/136_RR07 Calimh, Najeelas Aid_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/114_Calimh, Najeelas Aid_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/136_RR07 Calimh, Najeelas Aid_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/114_Calimh, Najeelas Aid_front.png"
 			}
 		},
 		{
-			"name": "RU05 Will, Slick Competitor",
+			"name": "Will, Slick Competitor",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "60",
+			"collector_number": "73",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/60_RU05 Will, Slick Competitor_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/73_Will, Slick Competitor_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/60_RU05 Will, Slick Competitor_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/73_Will, Slick Competitor_front.png"
 			}
 		},
 		{
-			"name": "RG01 Lunras, Rugged Contestant",
+			"name": "Lunras, Rugged Contestant",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Seal Warrior ",
-			"collector_number": "170",
+			"collector_number": "172",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/170_RG01 Lunras, Rugged Contestant_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/172_Lunras, Rugged Contestant_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/170_RG01 Lunras, Rugged Contestant_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/172_Lunras, Rugged Contestant_front.png"
 			}
 		},
 		{
-			"name": "RW03 The Gladiatorial Wanderer",
+			"name": "The Gladiatorial Wanderer",
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Samurai ",
-			"collector_number": "22",
+			"collector_number": "29",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/22_RW03 The Gladiatorial Wanderer_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/29_The Gladiatorial Wanderer_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/22_RW03 The Gladiatorial Wanderer_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/29_The Gladiatorial Wanderer_front.png"
 			}
 		},
 		{
-			"name": "RU06 Artistic Performance",
+			"name": "Artistic Performance",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/199_RU06 Artistic Performance.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/194_Artistic Performance.png"
 			}
 		},
 		{
-			"name": "RB06 Rakdos Conscript",
+			"name": "Rakdos Conscript",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Warrior ",
-			"collector_number": "197",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/197_RB06 Rakdos Conscript.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/223_Rakdos Conscript.png"
 			}
 		},
 		{
-			"name": "RW07 Aurelia, Voice of Contest",
+			"name": "Aurelia, Voice of Contest",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior ",
-			"collector_number": "201",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/201_RW07 Aurelia, Voice of Contest.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/195_Aurelia, Voice of Contest.png"
 			}
 		},
 		{
-			"name": "RM01 Axe of the Bloodscript",
+			"name": "Axe of the Bloodscript",
 			"rarity": "rare",
 			"mana_cost": "{1{B}/R}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/233_RM01 Axe of the Bloodscript.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/233_Axe of the Bloodscript.png"
 			}
 		},
 		{
-			"name": "RB05 Krav, Love Crazed",
+			"name": "Krav, Love Crazed",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Demon Warrior ",
-			"collector_number": "96",
+			"collector_number": "95",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mrbluetie.github.io/sets/KEC-files/img/96_RB05 Krav, Love Crazed_back.png"
+					"en": "https://mrbluetie.github.io/sets/KEC-files/img/95_Krav, Love Crazed_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/96_RB05 Krav, Love Crazed_front.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/95_Krav, Love Crazed_front.png"
 			}
 		},
 		{
@@ -2873,23 +2873,23 @@
 			}
 		},
 		{
-			"name": "CB03 2 MV Fan Favourite",
+			"name": "Fan Favourite",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "77",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/77_CB03 2 MV Fan Favourite.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/89_Fan Favourite.png"
 			}
 		},
 		{
-			"name": "CG13 Unvanquished Strength (power pump)",
+			"name": "Unvanquished Strength",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/164_CG13 Unvanquished Strength (power pump).png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/187_Unvanquished Strength.png"
 			}
 		},
 		{
@@ -2923,33 +2923,33 @@
 			}
 		},
 		{
-			"name": "CR07 4 OR 5 MV Pirouetting Ringster",
+			"name": "Pirouetting Ringster",
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "278",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/278_CR07 4 OR 5 MV Pirouetting Ringster.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/280_Pirouetting Ringster.png"
 			}
 		},
 		{
-			"name": "UU10 Noncreature Contender's Arrival",
+			"name": "Contender's Arrival",
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/277_UU10 Noncreature Contender's Arrival.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/277_Contender's Arrival.png"
 			}
 		},
 		{
-			"name": "RW07 Aurelia, Voice of Contest",
+			"name": "Aurelia, Voice of Contest",
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior ",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/281_RW07 Aurelia, Voice of Contest.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/281_Aurelia, Voice of Contest.png"
 			}
 		},
 		{
@@ -2963,13 +2963,13 @@
 			}
 		},
 		{
-			"name": "UR08 Noncreature Choose your Weapon",
+			"name": "Choose your Weapon",
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "280",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/280_UR08 Noncreature Choose your Weapon.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/278_Choose your Weapon.png"
 			}
 		},
 		{
@@ -2984,534 +2984,534 @@
 		}
 	]
 [RareSlot(1)]
-2 RG03 Rare equipment Blade of Skorbuth, of Many Warriors
-2 RG06 Intro Music
-2 RR03 Three Cheers
-2 RM01 WB Companion Innocuous Shield
-2 RM01 WG Companion Consecrated Longbow
-2 RM01 WR Companion Replicating Gauntlets
-2 RM01 RU Companion Skyrend Chakram
-2 RM01 UB Companion Boots of Stealth
-2 RM01 RG companion Marksman's Shooter
-2 RM01 WU Companion Trident of Tides
-2 RW05 Enchanting Wristlets
-2 RR05 Double Fist Barrage
-2 RU04 Spattering Advance
-2 RG05 Martial Macrocosm
-2 RB04 Inkfire Shelling
-2 RB02 Rules Infraction
-2 RW06 Arena Ministrator
-2 RX13 Tournament Invitation
-2 RR06 Swift Switchup
-2 RB01 Deadly Switchup
-2 RU02 Voltaic Switchup
-2 RW02 Admired Switchup
-2 RG02 Brawny Switchup
-2 RR02 Elspeths Kidnapping
-2 RU01 Ticketless Spectators
-2 RW01 Alarielle, of Valors Reach
-2 RU07 Forlorn Opposer
-2 RX11 The Arena of Valors Reach
-2 RX07 Archetype Rare RG Stand Renovations
-2 RW04 Arnaud, Arena Mechacaster
-2 RR04 Arena Battlecaster
-2 RB07 Ghverth, Combat Puppeteer
-2 RG07 Lone-Sword Tavern Bartender
-2 RX12 Fatal Usurp
-2 RG04 Enabling Synergism
-2 RX08 BG Archetype Rare BG Nightshade Amplifier
-2 RX10 UG Archetype Rare Merchandising Opiate
-2 RX01 Announcement Tower
-2 RM01 UG Companion Sword of Terra
-2 RM01 BG Companion Pact-Sword
-2 RX03 Archetype Rare WG Enchanting Shield
-2 RX04 Archetype Rare WU Stasis Effigy
-2 RX05 Archetype Rare UR Money Where Your Mouth is
-2 RX06 Archetype Rare WB Battle Sisters
-2 RX02 Archetype Rare UB Smugglers Vessel
-2 RX14 Squee, Lifelong Addict
-2 RR01 Gambling Den
-2 RU03 Santus, Talruvia's Champion
-2 RX15 Brulte, Baron of Tarkov
-2 RB03 Irascible Dueler
-2 RX09 Archetype WB Top of the Pile
-2 RR07 Calimh, Najeelas Aid
-2 RU05 Will, Slick Competitor
-2 RG01 Lunras, Rugged Contestant
-2 RW03 The Gladiatorial Wanderer
-2 RU06 Artistic Performance
-2 RB06 Rakdos Conscript
-2 RM01 Axe of the Bloodscript
-2 RB05 Krav, Love Crazed
-1 MX10 X, Masked Persistence
-1 MR01 The Splash Zone
-1 MX06 Let the Tournament Begin
-1 MX03 Combat Elightentment
-1 MX05 Jetmir, Companion of Party
-1 MB02 Demonic Influence
-1 MX07 Arena Camera
-1 MG01 Nissa, Peaceful Participant
-1 MW02 Autonomous Aquisition
-1 MX01 Arena Obstructions
-1 MB01 Match Fixing
-1 MG02 Halo Weapaniser
-1 MX09 Gurrok, Mysterious Fan
-1 MX08 Tomb of Valor
-1 MR02 Victory Speech
-1 MW01 1 Ajani, Redeemed Fighter
-1 MU01 Run it Back
-1 MU02 Contention Tyrant
-1 MX02 Sylvia, of the Old Ways
-1 MX04 Najeela, Warrior Bride
-1 RW07 Aurelia, Voice of Contest
+2 Skorbuth, of Many Warriors
+2 Intro Music
+2 Three Cheers
+2 Innocuous Shield
+2 Consecrated Longbow
+2 Replicating Gauntlets
+2 Skyrend Chakram
+2 Boots of Stealth
+2 Marksman's Shooter
+2 Trident of Tides
+2 Enchanting Wristlets
+2 Double Fist Barrage
+2 Spattering Advance
+2 Martial Macrocosm
+2 Inkfire Shelling
+2 Rules Infraction
+2 Arena Ministrator
+2 Tournament Invitation
+2 Swift Switchup
+2 Deadly Switchup
+2 Voltaic Switchup
+2 Admired Switchup
+2 Brawny Switchup
+2 Elspeths Kidnapping
+2 Ticketless Spectators
+2 Alarielle, of Valors Reach
+2 Forlorn Opposer
+2 The Arena of Valors Reach
+2 Stand Renovations
+2 Arnaud, Arena Mechacaster
+2 Arena Battlecaster
+2 Ghverth, Combat Puppeteer
+2 Lone-Sword Tavern Bartender
+2 Fatal Usurp
+2 Enabling Synergism
+2 Nightshade Amplifier
+2 Merchandising Opiate
+2 Announcement Tower
+2 Sword of Terra
+2 Pact-Sword
+2 Enchanting Shield
+2 Stasis Effigy
+2 Money here Your Mouth is
+2 Battle Sisters
+2 Smugglers Vessel
+2 Squee, Lifelong Addict
+2 Gambling Den
+2 Santus, Talruvia's Champion
+2 Brulte, Baron of Tarkov
+2 Irascible Dueler
+2 Top of the Pile
+2 Calimh, Najeelas Aid
+2 Will, Slick Competitor
+2 Lunras, Rugged Contestant
+2 The Gladiatorial Wanderer
+2 Artistic Performance
+2 Rakdos Conscript
+2 Axe of the Bloodscript
+2 Krav, Love Crazed
+1 XÆ, Masked Persistence
+1 The Splash Zone
+1 Let the Tournament Begin
+1 Combat Elightentment
+1 Jetmir, Companion of Party
+1 Demonic Influence
+1 Arena Camera
+1 Nissa, Peaceful Participant
+1 Autonomous Aquisition
+1 Arena Obstructions
+1 Match Fixing
+1 Halo Weapaniser
+1 Gurrok, Mysterious Fan
+1 Tomb of Valor
+1 Victory Speech
+1 Ajani, Redeemed Fighter
+1 Run it Back
+1 Contention Tyrant
+1 Sylvia, of the Old Ways
+1 Najeela, Warrior Bride
+1 Aurelia, Voice of Contest
 [UncommonSlot(4)]
-9 UM19 Payoff Tavern-Side Gambler
-9 UM17 Payoff Subterrene Herbalist
-9 UM04 Enabler Arena Kingpin
-9 UM03 Enabler Screeching Coyote
-9 UM18 Payoff Narcotic Manufacturer
-9 UM06 Enabler Adamantine Shield
-9 UM16 Payoff Patient Battler
-9 UM13 Enabler Instill Fear
-9 UM14 Payoff Number-One Follower
-9 UM12 Payoff Plated Deliverist
-9 UM07 Enabler Halo Renderer
-9 UM10 Enabler Brand of the Smith
-9 UM20 Payoff Blacksmith's Provision
-9 UM08 Enabler Halo Researcher
-9 UM09 Enabler Marketplace Bookie
-9 UR11 Noncreature Rile up the Crowd
-9 UG05 Part-Time Coward
-9 UR08 Noncreature Choose your Weapon
-9 UM01 Enabler Awning Guide
-9 UM11 Payoff Opportune Stand-In
-9 UG11 Noncreature Ironbreaker Stance
-9 UB09 Noncreature False Surrender
-9 UW11 Noncreature Battlefield Conjuration
-9 UM05 Enabler Unbothered Benefactor
-9 UM15 Payoff Extravagent Noble
-9 UA05 Noncreature Worthy Blade
-9 UR04 Explosive Winner
-9 UR06 Primed Contender
-9 UU12 Noncreature Rebounding Lesson
-9 UU09 Noncreature Betting Station
-9 UU01 Delivery Jays
-9 UG10 Noncreature Rowdy Crowd
-9 UG12 Noncreature Training Encampment
-9 UG02 Inconspicuous Supplier
-9 UG06 Residue Feeder
-9 UG01 Halo Prototyper
-9 UB03 Ruthless Lanista
-9 UB02 Noxious Slugger
-9 UB05 Sewer Dwelling Hoarder
-9 UB07 Unwilling Exterminator
-9 UB11 Noncreature Crippling Addiction
-9 UB13 Noncreature Merciless Execution
-9 UA04 Noncreature Solus Malleous
-9 UW03 Lanista of Style
-9 UW09 Armour Donor
-9 UW05 Narcissistic Fighter
-9 UU11 Noncreature Hostile Projection
-9 UU10 Noncreature Contender's Arrival
-9 UB04 Scandalous Contestant
-9 UW06 Quick Learner
-9 UW10 Help Up
-9 UW04 Clashing Armament
-9 UW01 Inviting Challenger
-9 UW14 Noncreature Felling Swing
-9 UW12 Noncreature Emporer's Lounge
-9 UU08 Noncreature Arena's Atmoshpere
-9 UU04 Odds maker
-9 UU14 Noncreature Enochlophobia
-9 UU06 Stolen Tactics
-9 UA03 Weaponised Mech
-9 UB01 Necrosis Tanker
-9 UB08 Noncreature Defectless Blow
-9 UB12 Noncreature Warrior's Exoskeleton
-9 UR01 Contestants Nightmare
-9 UR09 Upcoming Prospect
-9 UR05 Odd's Favoured
-9 UR13 Noncreature Lucky Arrow
-9 UR02 Crowd Side Bookie
-9 UG04 Sural Handler
-9 UG14 Noncreature Gear Affix
-9 UG03 Lanista of Balance
-9 UW02 Engraver of Champions
-9 UW13 Noncreature Elspeths Protection
-9 UW07 Spirit of Competition
-9 UB10 Noncreature Regnas Captivity
-9 UA01 Offworld Traveler
-9 UR07 Scandalous Gambler
-9 UR03 Halo Infuser
-9 UU07 3 MV Zealous Javelinist
-9 UU02 4 MV Splashing Critter
-9 UU03 Lanista of Patience
-9 UW08 Isamaru, Hound of Konda
-9 UG13 Noncreature Bursting Kick
-9 UG07 Vermin Smasher
-9 UG08 Stray Tamer
-9 UR12 Noncreature Win Together
-9 UG09 Dwelling Refiller
-9 UR14 Noncreature Tour the Forge
-9 UU13 Noncreature Rain of Victory
-9 UA02 Arena Vendor
-9 UB14 Noncreature Enter the Arena
-9 UM02 Enabler Illicit Payment
-9 UR10 Noncreature Fiery Lunge
-9 UB06 Mentor's Challenge
-9 UA06 Uncommon Land Cycle Sinsiter Cirque
-9 UA07 Uncommon Land Cycle Glacial Platform
-9 UA08 Uncommon Land Cycle Penitentiary Hangar
-9 UA09 Uncommon Land Cycle Battle Colosseum
-9 UA10 Uncommon lower Level Fight-Club
-9 UU05 Arena Pickpocket
+9 Tavern-Side Gambler
+9 Subterrene Herbalist
+9 Arena Kingpin
+9 Screeching Coyote
+9 Narcotic Manufacturer
+9 Adamantine Shield
+9 Patient Battler
+9 Instill Fear
+9 Number-One Follower
+9 Plated Deliverist
+9 Halo Renderer
+9 Brand of the Smith
+9 Blacksmith's Provision
+9 Halo Researcher
+9 Marketplace Bookie
+9 Rile up the Crowd
+9 Part-Time Coward
+9 Choose your Weapon
+9 Awning Guide
+9 Opportune Stand-In
+9 Ironbreaker Stance
+9 False Surrender
+9 Battlefield Conjuration
+9 Unbothered Benefactor
+9 Extravagent Noble
+9 Worthy Blade
+9 Explosive Winner
+9 Primed Contender
+9 Rebounding Lesson
+9 Betting Station
+9 Delivery Jays
+9 Rowdy Crowd
+9 Training Encampment
+9 Inconspicuous Supplier
+9 Residue Feeder
+9 Halo Prototyper
+9 Ruthless Lanista
+9 Noxious Slugger
+9 Sewer Dwelling Hoarder
+9 Unwilling Exterminator
+9 Crippling Addiction
+9 Merciless Execution
+9 Solus Malleous
+9 Lanista of Style
+9 Armour Donor
+9 Narcissistic Fighter
+9 Hostile Projection
+9 Contender's Arrival
+9 Scandalous Contestant
+9 Quick Learner
+9 Help Up
+9 Clashing Armament
+9 Inviting Challenger
+9 Felling Swing
+9 Emporer's Lounge
+9 Arena's Atmoshpere
+9 Odds maker
+9 Enochlophobia
+9 Stolen Tactics
+9 Weaponised Mech
+9 Necrosis Tanker
+9 Defectless Blow
+9 Warrior's Exoskeleton
+9 Contestants Nightmare
+9 Upcoming Prospect
+9 Odd's Favoured
+9 Lucky Arrow
+9 Crowd Side Bookie
+9 Sural Handler
+9 Gear Affix
+9 Lanista of Balance
+9 Engraver of Champions
+9 Elspeths Protection
+9 Spirit of Competition
+9 Regnas Captivity
+9 Offworld Traveler
+9 Scandalous Gambler
+9 Halo Infuser
+9 Zealous Javelinist
+9 Splashing Critter
+9 Lanista of Patience
+9 Isamaru, Hound of Konda
+9 Bursting Kick
+9 Vermin Smasher
+9 Stray Tamer
+9 Win Together
+9 Dwelling Refiller
+9 Tour the Forge
+9 Rain of Victory
+9 Arena Vendor
+9 Enter the Arena
+9 Illicit Payment
+9 Fiery Lunge
+9 Mentor's Challenge
+9 Sinsiter Cirque
+9 Glacial Platform
+9 Penitentiary Hangar
+9 Battle Colosseum
+9 Level Fight-Club
+9 Arena Pickpocket
 [CommonSlot(7)]
-30 CR12 Rummaging/impulsive draw Awesome Play
-30 CW14 Combat trick Flying Kick
-30 CU11 Cantrip Use your Wits
-30 CR14 Direct damage (efficient, usually deals 4) Fulmination Punch
-30 CA03 6 MV Left Hook
-30 CR10 Direct damage (deals 2) Direful Slash
-30 CR02 2 MV Confident Chalk
-30 CR01 1 OR 2 MV Audacious Gladiator
-30 CR05 3 MV Adrenaline Radical
-30 CR06 3 OR 4 MV MV Combat Lanista
-30 CR08 5 MV Groyv, Hulking Combatant CHECKKK
-30 CU10 Counterspell
-30 CU12 Draw spell (two to three cards) Deductive Procedure
-30 CU03 3 MV Kylan General
-30 CU02 2 MV Genius Cardcounter
-30 CG11 Fight spell Pillar Slam
-30 CG01 1 OR 2 MV Overdosed Lab Animal
-30 CG05 3 MV Fercious Lanista
-30 CG14 Mana acceleration Nighttime Entertainment
-30 CG04 3 MV Adaptable Fighter
-30 CB02 2 MV Blunt Suspect
-30 CB01 1 OR 2 MV Clawing Dueler
-30 CB10 Small conditional removalHead bash
-30 CB11 Combat trick Elbow Drop
-30 CB07 4 OR 5 MV Exploiter of Weakness
-30 CW01 1 MV Fans Beloved
-30 CW03 2 MV Lys Alana Legionnaire
-30 CG08 5 MV Orcish Stance-Bearer
-30 CB12 Card draw (added cost) Debasing Execution(Flavour)
-30 CA02 Foiling Block
-30 CW12 Combat-related removal Distraction Strategy
-30 CW13 Banishing Light Elspeth's Condemnation
-30 CW09 4 MV Collecting Armourer
-30 CU06 Ego Challenger
-30 CU04 Vigilant Gargoyle
-30 CU01 2 MV Capennan Importer
-30 CA05 Manalith+ abilityGlory Chimes
-30 CB05 3 MV Dockside Poisoner
-30 CB08 5 OR 6 MV Duel-Wielding Personality
-30 CB14 Unconditional removal Impose Fear
-30 CR04 3 MV Reckless Rabble-Rouser
-30 CR15 Direct damage (five mana, 6 damage) Winning Punch
-30 CG03 2 MV Withstanding Contender
-30 CG06 3 OR 4 MV Exploiting Industrialist
-30 CG15 Dig for lands and/or creatures Fresh Arrival
-30 CG02 2 MV Market Upcomers
-30 CW05 3 MV Crowd Surfer
-30 CW04 2 MV Arena Expert
-30 CW10 2 MV Ethereal Dueler
-30 CW02 Crusader of Celebration
-30 CW07 4 MV Mentor of Respect
-30 CW15 Disenchant/removal spell Battering Ram
-30 CU07 5 OR 6 MV Arena Infiltrator
-30 CU08 6 OR 7 MV Arena Steward
-30 CU13 Sidelined
-30 CU14 Top or bottom spell Battlefield impingement
-30 CU09 Protective instant(Battle Reflexes
-30 CB04 3 MV Roving Eternal
-30 CB06 4 MV Bellicrose Whirler
-30 CB13 Coercion+ Mind Games
-30 CR03 2 MV Flare Spewer
-30 CR07 4 OR 5 MV Pirouetting Ringster
-30 CR09 6 MV Pummeling High-Roller
-30 CR11 Combat trick Sharp lunge
-30 CG07 4 OR 5 MV Arena Security
-30 CG12 Bite spell Ferocious Incision
-30 CA01 Adorned Rapier
-30 CA04 Removal Contenders Teapot
-30 CA06 Land fixing Sponsors Lounge
-30 CG09 6 MV Sweeping Buckaroo
-30 CG10 6 OR 7 MV Tusked Contestor
-30 CU05 3 MV Perspective Dueler
-30 CU15 Modal spell Staking Collateral
-30 CW08 4 MV Arena Stylist
-30 CB09 6 OR 7 MV Halo Reverser
-30 CW11 6 OR 7 MV Interval Revelry
-30 CW06 MV 3 Cautious Showboat
-30 CR13 Modal Smash to Smithereens
-30 CB15 Slightly overcosted removal Finish Him
-30 CB03 2 MV Fan Favourite
-30 CG13 Unvanquished Strength (power pump)
+30 Rummaging/impulsive draw Awesome Play
+30 Flying Kick
+30 Cantrip Use your Wits
+30 Fulmination Punch
+30 Left Hook
+30 Direful Slash
+30 Confident Chalk
+30 Audacious Gladiator
+30 Adrenaline Radical
+30 Combat Lanista
+30 Groyv, Hulking Combatant
+30 Counterspell
+30 Deductive Procedure
+30 Kylan General
+30 Genius Cardcounter
+30 Fight spell Pillar Slam
+30 Overdosed Lab Animal
+30 Fercious Lanista
+30 Nighttime Entertainment
+30 Adaptable Fighter
+30 Blunt Suspect
+30 Clawing Dueler
+30 Small conditional removalHead bash
+30 Elbow Drop
+30 Exploiter of Weakness
+30 Fans Beloved
+30 Lys Alana Legionnaire
+30 Orcish Stance-Bearer
+30 Debasing Execution
+30 Foiling Block
+30 Distraction Strategy
+30 Elspeth's Condemnation
+30 Collecting Armourer
+30 Ego Challenger
+30 Vigilant Gargoyle
+30 Capennan Importer
+30 Glory Chimes
+30 Dockside Poisoner
+30 Duel-Wielding Personality
+30 Impose Fear
+30 Reckless Rabble-Rouser
+30 Winning Punch
+30 Withstanding Contender
+30 Exploiting Industrialist
+30 Fresh Arrival
+30 Market Upcomers
+30 Crowd Surfer
+30 Arena Expert
+30 Ethereal Dueler
+30 Crusader of Celebration
+30 Mentor of Respect
+30 Battering Ram
+30 Arena Infiltrator
+30 Arena Steward
+30 Sidelined
+30 Battlefield impingement
+30 Battle Reflexes
+30 Roving Eternal
+30 Bellicrose Whirler
+30 Mind Games
+30 Flare Spewer
+30 Pirouetting Ringster
+30 Pummeling High-Roller
+30 Combat trick Sharp lunge
+30 Arena Security
+30 Ferocious Incision
+30 Adorned Rapier
+30 Removal Contenders Teapot
+30 Sponsors Lounge
+30 Sweeping Buckaroo
+30 Tusked Contestor
+30 Perspective Dueler
+30 Staking Collateral
+30 Arena Stylist
+30 Halo Reverser
+30 Interval Revelry
+30 Cautious Showboat
+30 Smash to Smithereens
+30 Finish Him
+30 Fan Favourite
+30 Unvanquished Strength
 [WildcardSlot(2)]
-10 UM19 Payoff Tavern-Side Gambler
-10 UM17 Payoff Subterrene Herbalist
-10 UM04 Enabler Arena Kingpin
-10 UM03 Enabler Screeching Coyote
-10 UM18 Payoff Narcotic Manufacturer
-10 UM06 Enabler Adamantine Shield
-10 UM16 Payoff Patient Battler
-10 UM13 Enabler Instill Fear
-10 UM14 Payoff Number-One Follower
-10 UM12 Payoff Plated Deliverist
-10 UM07 Enabler Halo Renderer
-10 UM10 Enabler Brand of the Smith
-10 RG03 Rare equipment Blade of Skorbuth, of Many Warriors
-10 UM20 Payoff Blacksmith's Provision
-10 UM08 Enabler Halo Researcher
-10 UM09 Enabler Marketplace Bookie
-10 RG06 Intro Music
-10 CR12 Rummaging/impulsive draw Awesome Play
-10 UR11 Noncreature Rile up the Crowd
-10 RR03 Three Cheers
-10 UG05 Part-Time Coward
-10 RM01 WB Companion Innocuous Shield
-10 RM01 WG Companion Consecrated Longbow
-10 RM01 WR Companion Replicating Gauntlets
-10 RM01 RU Companion Skyrend Chakram
-10 RM01 UB Companion Boots of Stealth
-10 RM01 RG companion Marksman's Shooter
-10 RM01 WU Companion Trident of Tides
-10 UR08 Noncreature Choose your Weapon
-10 UM01 Enabler Awning Guide
-10 UM11 Payoff Opportune Stand-In
-10 CW14 Combat trick Flying Kick
-10 UG11 Noncreature Ironbreaker Stance
-10 CU11 Cantrip Use your Wits
-10 CR14 Direct damage (efficient, usually deals 4) Fulmination Punch
-10 CA03 6 MV Left Hook
-10 UB09 Noncreature False Surrender
-10 UW11 Noncreature Battlefield Conjuration
-10 UM05 Enabler Unbothered Benefactor
-10 UM15 Payoff Extravagent Noble
-10 CR10 Direct damage (deals 2) Direful Slash
-10 CR02 2 MV Confident Chalk
-10 CR01 1 OR 2 MV Audacious Gladiator
-10 CR05 3 MV Adrenaline Radical
-10 CR06 3 OR 4 MV MV Combat Lanista
-10 UA05 Noncreature Worthy Blade
-10 UR04 Explosive Winner
-10 UR06 Primed Contender
-10 CR08 5 MV Groyv, Hulking Combatant CHECKKK
-10 CU10 Counterspell
-10 UU12 Noncreature Rebounding Lesson
-10 UU09 Noncreature Betting Station
-10 CU12 Draw spell (two to three cards) Deductive Procedure
-10 CU03 3 MV Kylan General
-10 CU02 2 MV Genius Cardcounter
-10 UU01 Delivery Jays
-10 CG11 Fight spell Pillar Slam
-10 UG10 Noncreature Rowdy Crowd
-10 CG01 1 OR 2 MV Overdosed Lab Animal
-10 UG12 Noncreature Training Encampment
-10 UG02 Inconspicuous Supplier
-10 CG05 3 MV Fercious Lanista
-10 UG06 Residue Feeder
-10 UG01 Halo Prototyper
-10 CG14 Mana acceleration Nighttime Entertainment
-10 CG04 3 MV Adaptable Fighter
-10 CB02 2 MV Blunt Suspect
-10 UB03 Ruthless Lanista
-10 CB01 1 OR 2 MV Clawing Dueler
-10 UB02 Noxious Slugger
-10 CB10 Small conditional removalHead bash
-10 UB05 Sewer Dwelling Hoarder
-10 UB07 Unwilling Exterminator
-10 UB11 Noncreature Crippling Addiction
-10 CB11 Combat trick Elbow Drop
-10 CB07 4 OR 5 MV Exploiter of Weakness
-10 UB13 Noncreature Merciless Execution
-10 CW01 1 MV Fans Beloved
-10 UA04 Noncreature Solus Malleous
-10 UW03 Lanista of Style
-10 UW09 Armour Donor
-10 UW05 Narcissistic Fighter
-10 CW03 2 MV Lys Alana Legionnaire
-10 RW05 Enchanting Wristlets
-10 UU11 Noncreature Hostile Projection
-10 CG08 5 MV Orcish Stance-Bearer
-10 CB12 Card draw (added cost) Debasing Execution(Flavour)
-10 CA02 Foiling Block
-10 RR05 Double Fist Barrage
-10 RU04 Spattering Advance
-10 RG05 Martial Macrocosm
-10 RB04 Inkfire Shelling
-10 RB02 Rules Infraction
-10 MX10 X, Masked Persistence
-10 UU10 Noncreature Contender's Arrival
-10 UB04 Scandalous Contestant
-10 MR01 The Splash Zone
-10 MX06 Let the Tournament Begin
-10 CW12 Combat-related removal Distraction Strategy
-10 MX03 Combat Elightentment
-10 MX05 Jetmir, Companion of Party
-10 UW06 Quick Learner
-10 UW10 Help Up
-10 UW04 Clashing Armament
-10 UW01 Inviting Challenger
-10 UW14 Noncreature Felling Swing
-10 CW13 Banishing Light Elspeth's Condemnation
-10 RW06 Arena Ministrator
-10 CW09 4 MV Collecting Armourer
-10 UW12 Noncreature Emporer's Lounge
-10 UU08 Noncreature Arena's Atmoshpere
-10 CU06 Ego Challenger
-10 UU04 Odds maker
-10 CU04 Vigilant Gargoyle
-10 UU14 Noncreature Enochlophobia
-10 UU06 Stolen Tactics
-10 CU01 2 MV Capennan Importer
-10 CA05 Manalith+ abilityGlory Chimes
+10 Tavern-Side Gambler
+10 Subterrene Herbalist
+10 Arena Kingpin
+10 Screeching Coyote
+10 Narcotic Manufacturer
+10 Adamantine Shield
+10 Patient Battler
+10 Instill Fear
+10 Number-One Follower
+10 Plated Deliverist
+10 Halo Renderer
+10 Brand of the Smith
+10 Skorbuth, of Many Warriors
+10 Blacksmith's Provision
+10 Halo Researcher
+10 Marketplace Bookie
+10 Intro Music
+10 Rummaging/impulsive draw Awesome Play
+10 Rile up the Crowd
+10 Three Cheers
+10 Part-Time Coward
+10 Innocuous Shield
+10 Consecrated Longbow
+10 Replicating Gauntlets
+10 Skyrend Chakram
+10 Boots of Stealth
+10 Marksman's Shooter
+10 Trident of Tides
+10 Choose your Weapon
+10 Awning Guide
+10 Opportune Stand-In
+10 Flying Kick
+10 Ironbreaker Stance
+10 Cantrip Use your Wits
+10 Fulmination Punch
+10 Left Hook
+10 False Surrender
+10 Battlefield Conjuration
+10 Unbothered Benefactor
+10 Extravagent Noble
+10 Direful Slash
+10 Confident Chalk
+10 Audacious Gladiator
+10 Adrenaline Radical
+10 Combat Lanista
+10 Worthy Blade
+10 Explosive Winner
+10 Primed Contender
+10 Groyv, Hulking Combatant
+10 Counterspell
+10 Rebounding Lesson
+10 Betting Station
+10 Deductive Procedure
+10 Kylan General
+10 Genius Cardcounter
+10 Delivery Jays
+10 Fight spell Pillar Slam
+10 Rowdy Crowd
+10 Overdosed Lab Animal
+10 Training Encampment
+10 Inconspicuous Supplier
+10 Fercious Lanista
+10 Residue Feeder
+10 Halo Prototyper
+10 Nighttime Entertainment
+10 Adaptable Fighter
+10 Blunt Suspect
+10 Ruthless Lanista
+10 Clawing Dueler
+10 Noxious Slugger
+10 Small conditional removalHead bash
+10 Sewer Dwelling Hoarder
+10 Unwilling Exterminator
+10 Crippling Addiction
+10 Elbow Drop
+10 Exploiter of Weakness
+10 Merciless Execution
+10 Fans Beloved
+10 Solus Malleous
+10 Lanista of Style
+10 Armour Donor
+10 Narcissistic Fighter
+10 Lys Alana Legionnaire
+10 Enchanting Wristlets
+10 Hostile Projection
+10 Orcish Stance-Bearer
+10 Debasing Execution
+10 Foiling Block
+10 Double Fist Barrage
+10 Spattering Advance
+10 Martial Macrocosm
+10 Inkfire Shelling
+10 Rules Infraction
+10 XÆ, Masked Persistence
+10 Contender's Arrival
+10 Scandalous Contestant
+10 The Splash Zone
+10 Let the Tournament Begin
+10 Distraction Strategy
+10 Combat Elightentment
+10 Jetmir, Companion of Party
+10 Quick Learner
+10 Help Up
+10 Clashing Armament
+10 Inviting Challenger
+10 Felling Swing
+10 Elspeth's Condemnation
+10 Arena Ministrator
+10 Collecting Armourer
+10 Emporer's Lounge
+10 Arena's Atmoshpere
+10 Ego Challenger
+10 Odds maker
+10 Vigilant Gargoyle
+10 Enochlophobia
+10 Stolen Tactics
+10 Capennan Importer
+10 Glory Chimes
+10 Tournament Invitation
+10 Weaponised Mech
+10 Necrosis Tanker
+10 Dockside Poisoner
+10 Duel-Wielding Personality
+10 Defectless Blow
+10 Impose Fear
+10 Warrior's Exoskeleton
+10 Contestants Nightmare
+10 Reckless Rabble-Rouser
+10 Upcoming Prospect
+10 Odd's Favoured
+10 Lucky Arrow
+10 Crowd Side Bookie
+10 Winning Punch
+10 Withstanding Contender
+10 Sural Handler
+10 Exploiting Industrialist
+10 Fresh Arrival
+10 Gear Affix
+10 Market Upcomers
+10 Crowd Surfer
+10 Arena Expert
+10 Ethereal Dueler
+10 Lanista of Balance
+10 Swift Switchup
+10 Deadly Switchup
+10 Voltaic Switchup
+10 Admired Switchup
+10 Brawny Switchup
+10 Elspeths Kidnapping
+10 Demonic Influence
+10 Ticketless Spectators
+10 Engraver of Champions
+10 Arena Camera
+10 Nissa, Peaceful Participant
+10 Autonomous Aquisition
+10 Alarielle, of Valors Reach
+10 Forlorn Opposer
+10 Arena Obstructions
+10 The Arena of Valors Reach
+10 Crusader of Celebration
+10 Mentor of Respect
+10 Elspeths Protection
+10 Battering Ram
+10 Arena Infiltrator
+10 Arena Steward
+10 Sidelined
+10 Battlefield impingement
+10 Battle Reflexes
+10 Match Fixing
+10 Spirit of Competition
+10 Roving Eternal
+10 Bellicrose Whirler
+10 Mind Games
+10 Regnas Captivity
+10 Flare Spewer
+10 Pirouetting Ringster
+10 Pummeling High-Roller
+10 Combat trick Sharp lunge
+10 Arena Security
+10 Ferocious Incision
+10 Adorned Rapier
+10 Removal Contenders Teapot
+10 Offworld Traveler
+10 Stand Renovations
+10 Scandalous Gambler
+10 Arnaud, Arena Mechacaster
+10 Halo Weapaniser
+10 Arena Battlecaster
+10 Ghverth, Combat Puppeteer
+10 Gurrok, Mysterious Fan
+10 Halo Infuser
+10 Sponsors Lounge
+10 Sweeping Buckaroo
+10 Tusked Contestor
+10 Zealous Javelinist
+10 Perspective Dueler
+10 Splashing Critter
+10 Lone-Sword Tavern Bartender
+10 Staking Collateral
+10 Arena Stylist
+10 Halo Reverser
+10 Interval Revelry
+10 Lanista of Patience
+10 Tomb of Valor
+10 Isamaru, Hound of Konda
+10 Bursting Kick
+10 Vermin Smasher
+10 Stray Tamer
+10 Win Together
+10 Dwelling Refiller
+10 Cautious Showboat
+10 Fatal Usurp
+10 Tour the Forge
+10 Smash to Smithereens
+10 Rain of Victory
+10 Arena Vendor
+10 Enter the Arena
+10 Victory Speech
+10 Illicit Payment
+10 Fiery Lunge
+10 Enabling Synergism
+10 Ajani, Redeemed Fighter
+10 Mentor's Challenge
+10 Finish Him
+10 Nightshade Amplifier
+10 Merchandising Opiate
+10 Run it Back
+10 Contention Tyrant
+10 Announcement Tower
+10 Sword of Terra
+10 Pact-Sword
+10 Enchanting Shield
+10 Stasis Effigy
+10 Money here Your Mouth is
+10 Battle Sisters
+10 Smugglers Vessel
+10 Squee, Lifelong Addict
+10 Gambling Den
+10 Sylvia, of the Old Ways
+10 Najeela, Warrior Bride
+10 Sinsiter Cirque
+10 Glacial Platform
+10 Penitentiary Hangar
+10 Battle Colosseum
+10 Level Fight-Club
+10 Santus, Talruvia's Champion
+10 Brulte, Baron of Tarkov
+10 Irascible Dueler
+10 Arena Pickpocket
+10 Top of the Pile
+10 Calimh, Najeelas Aid
+10 Will, Slick Competitor
+10 Lunras, Rugged Contestant
+10 The Gladiatorial Wanderer
+10 Artistic Performance
+10 Rakdos Conscript
+10 Aurelia, Voice of Contest
+10 Axe of the Bloodscript
+10 Krav, Love Crazed
+10 Fan Favourite
+10 Unvanquished Strength
+10 Pirouetting Ringster
+10 Contender's Arrival
+10 Aurelia, Voice of Contest
 10 RX13 Tournament Invitation
-10 UA03 Weaponised Mech
-10 UB01 Necrosis Tanker
-10 CB05 3 MV Dockside Poisoner
-10 CB08 5 OR 6 MV Duel-Wielding Personality
-10 UB08 Noncreature Defectless Blow
-10 CB14 Unconditional removal Impose Fear
-10 UB12 Noncreature Warrior's Exoskeleton
-10 UR01 Contestants Nightmare
-10 CR04 3 MV Reckless Rabble-Rouser
-10 UR09 Upcoming Prospect
-10 UR05 Odd's Favoured
-10 UR13 Noncreature Lucky Arrow
-10 UR02 Crowd Side Bookie
-10 CR15 Direct damage (five mana, 6 damage) Winning Punch
-10 CG03 2 MV Withstanding Contender
-10 UG04 Sural Handler
-10 CG06 3 OR 4 MV Exploiting Industrialist
-10 CG15 Dig for lands and/or creatures Fresh Arrival
-10 UG14 Noncreature Gear Affix
-10 CG02 2 MV Market Upcomers
-10 CW05 3 MV Crowd Surfer
-10 CW04 2 MV Arena Expert
-10 CW10 2 MV Ethereal Dueler
-10 UG03 Lanista of Balance
-10 RR06 Swift Switchup
-10 RB01 Deadly Switchup
-10 RU02 Voltaic Switchup
-10 RW02 Admired Switchup
-10 RG02 Brawny Switchup
-10 RR02 Elspeths Kidnapping
-10 MB02 Demonic Influence
-10 RU01 Ticketless Spectators
-10 UW02 Engraver of Champions
-10 MX07 Arena Camera
-10 MG01 Nissa, Peaceful Participant
-10 MW02 Autonomous Aquisition
-10 RW01 Alarielle, of Valors Reach
-10 RU07 Forlorn Opposer
-10 MX01 Arena Obstructions
-10 RX11 The Arena of Valors Reach
-10 CW02 Crusader of Celebration
-10 CW07 4 MV Mentor of Respect
-10 UW13 Noncreature Elspeths Protection
-10 CW15 Disenchant/removal spell Battering Ram
-10 CU07 5 OR 6 MV Arena Infiltrator
-10 CU08 6 OR 7 MV Arena Steward
-10 CU13 Sidelined
-10 CU14 Top or bottom spell Battlefield impingement
-10 CU09 Protective instant(Battle Reflexes
-10 MB01 Match Fixing
-10 UW07 Spirit of Competition
-10 CB04 3 MV Roving Eternal
-10 CB06 4 MV Bellicrose Whirler
-10 CB13 Coercion+ Mind Games
-10 UB10 Noncreature Regnas Captivity
-10 CR03 2 MV Flare Spewer
-10 CR07 4 OR 5 MV Pirouetting Ringster
-10 CR09 6 MV Pummeling High-Roller
-10 CR11 Combat trick Sharp lunge
-10 CG07 4 OR 5 MV Arena Security
-10 CG12 Bite spell Ferocious Incision
-10 CA01 Adorned Rapier
-10 CA04 Removal Contenders Teapot
-10 UA01 Offworld Traveler
-10 RX07 Archetype Rare RG Stand Renovations
-10 UR07 Scandalous Gambler
-10 RW04 Arnaud, Arena Mechacaster
-10 MG02 Halo Weapaniser
-10 RR04 Arena Battlecaster
-10 RB07 Ghverth, Combat Puppeteer
-10 MX09 Gurrok, Mysterious Fan
-10 UR03 Halo Infuser
-10 CA06 Land fixing Sponsors Lounge
-10 CG09 6 MV Sweeping Buckaroo
-10 CG10 6 OR 7 MV Tusked Contestor
-10 UU07 3 MV Zealous Javelinist
-10 CU05 3 MV Perspective Dueler
-10 UU02 4 MV Splashing Critter
-10 RG07 Lone-Sword Tavern Bartender
-10 CU15 Modal spell Staking Collateral
-10 CW08 4 MV Arena Stylist
-10 CB09 6 OR 7 MV Halo Reverser
-10 CW11 6 OR 7 MV Interval Revelry
-10 UU03 Lanista of Patience
-10 MX08 Tomb of Valor
-10 UW08 Isamaru, Hound of Konda
-10 UG13 Noncreature Bursting Kick
-10 UG07 Vermin Smasher
-10 UG08 Stray Tamer
-10 UR12 Noncreature Win Together
-10 UG09 Dwelling Refiller
-10 CW06 MV 3 Cautious Showboat
-10 RX12 Fatal Usurp
-10 UR14 Noncreature Tour the Forge
-10 CR13 Modal Smash to Smithereens
-10 UU13 Noncreature Rain of Victory
-10 UA02 Arena Vendor
-10 UB14 Noncreature Enter the Arena
-10 MR02 Victory Speech
-10 UM02 Enabler Illicit Payment
-10 UR10 Noncreature Fiery Lunge
-10 RG04 Enabling Synergism
-10 MW01 1 Ajani, Redeemed Fighter
-10 UB06 Mentor's Challenge
-10 CB15 Slightly overcosted removal Finish Him
-10 RX08 BG Archetype Rare BG Nightshade Amplifier
-10 RX10 UG Archetype Rare Merchandising Opiate
-10 MU01 Run it Back
-10 MU02 Contention Tyrant
-10 RX01 Announcement Tower
-10 RM01 UG Companion Sword of Terra
-10 RM01 BG Companion Pact-Sword
-10 RX03 Archetype Rare WG Enchanting Shield
-10 RX04 Archetype Rare WU Stasis Effigy
-10 RX05 Archetype Rare UR Money Where Your Mouth is
-10 RX06 Archetype Rare WB Battle Sisters
-10 RX02 Archetype Rare UB Smugglers Vessel
-10 RX14 Squee, Lifelong Addict
-10 RR01 Gambling Den
-10 MX02 Sylvia, of the Old Ways
-10 MX04 Najeela, Warrior Bride
-10 UA06 Uncommon Land Cycle Sinsiter Cirque
-10 UA07 Uncommon Land Cycle Glacial Platform
-10 UA08 Uncommon Land Cycle Penitentiary Hangar
-10 UA09 Uncommon Land Cycle Battle Colosseum
-10 UA10 Uncommon lower Level Fight-Club
-10 RU03 Santus, Talruvia's Champion
-10 RX15 Brulte, Baron of Tarkov
-10 RB03 Irascible Dueler
-10 UU05 Arena Pickpocket
-10 RX09 Archetype WB Top of the Pile
-10 RR07 Calimh, Najeelas Aid
-10 RU05 Will, Slick Competitor
-10 RG01 Lunras, Rugged Contestant
-10 RW03 The Gladiatorial Wanderer
-10 RU06 Artistic Performance
-10 RB06 Rakdos Conscript
-10 RW07 Aurelia, Voice of Contest
-10 RM01 Axe of the Bloodscript
-10 RB05 Krav, Love Crazed
-10 CB03 2 MV Fan Favourite
-10 CG13 Unvanquished Strength (power pump)
-10 CR07 4 OR 5 MV Pirouetting Ringster
-10 UU10 Noncreature Contender's Arrival
-10 RW07 Aurelia, Voice of Contest
-10 RX13 Tournament Invitation
-10 UR08 Noncreature Choose your Weapon
+10 Choose your Weapon
 10 MX02 Sylvia, of the Old Ways
