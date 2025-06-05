@@ -255,19 +255,19 @@
 			"rarity": "rare",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_Replicating Gauntlets.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_Replicating Gauntlets.png"
 			}
 		},
 		{
-			"name": "Skyrend Chakram",
+			"name": "Mystiquers Mask",
 			"rarity": "rare",
 			"mana_cost": "{1{U}/R}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "239",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/239_Skyrend Chakram.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_Mystiquers Mask.png"
 			}
 		},
 		{
@@ -2392,9 +2392,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/237_Pact-Sword.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/238_Pact-Sword.png"
 			}
 		},
 		{
@@ -2955,7 +2955,7 @@
 2 Innocuous Shield
 2 Consecrated Longbow
 2 Replicating Gauntlets
-2 Skyrend Chakram
+2 Mystiquers Mask
 2 Boots of Stealth
 2 Marksman's Shooter
 2 Trident of Tides
@@ -3237,7 +3237,7 @@
 10 Innocuous Shield
 10 Consecrated Longbow
 10 Replicating Gauntlets
-10 Skyrend Chakram
+10 Mystiquers Mask
 10 Boots of Stealth
 10 Marksman's Shooter
 10 Trident of Tides
