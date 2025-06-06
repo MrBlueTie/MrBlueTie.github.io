@@ -4288,7 +4288,7 @@
             "number": 240,
             "color_identity": "UG",
             "cost": "{GU}{GU}",
-            "rules_text": "Companion \u2014 Each creature card in your starting deck has power 3 or greater. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]\nWhenever equipped creature attacks, draw that many cards. \nEquip {12}. This ability costs {X} less to activate where X is the greatest power among creatures you control.",
+            "rules_text": "Companion \u2014 Each creature card in your starting deck has power 3 or greater. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]\nWhenever equipped creature deals combat damage to a player, you may draw that many cards.\nEquip {12}. This ability costs {X} less to activate where X is the greatest power among creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
