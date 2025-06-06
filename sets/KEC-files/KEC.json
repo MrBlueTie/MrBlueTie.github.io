@@ -1,7 +1,7 @@
 ﻿{
     "name": "Kylems Oncore",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "cards": [
         {
@@ -5198,5 +5198,6 @@
             "artist": "Nino Vecia",
             "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }
