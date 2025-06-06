@@ -2480,7 +2480,7 @@
 		{
 			"name": "Najeela, Warrior Bride",
 			"rarity": "mythic",
-			"mana_cost": "{R}{W}{B}",
+			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Warrior Noble ",
 			"collector_number": "215",
 			"image_uris": {
