@@ -2882,9 +2882,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "280",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/280_Pirouetting Ringster.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/0_Pirouetting Ringster.png"
 			}
 		},
 		{
@@ -2892,9 +2892,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "277",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/277_Contender's Arrival.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/0_Contender's Arrival.png"
 			}
 		},
 		{
@@ -2902,9 +2902,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior ",
-			"collector_number": "281",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/281_Aurelia, Voice of Contest.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/0_Aurelia, Voice of Contest.png"
 			}
 		},
 		{
@@ -2912,9 +2912,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "282",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/282_RX13 Tournament Invitation.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/277_RX13 Tournament Invitation.png"
 			}
 		},
 		{
@@ -2922,9 +2922,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "278",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/278_Choose your Weapon.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/0_Choose your Weapon.png"
 			}
 		},
 		{
@@ -2932,9 +2932,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Knight ",
-			"collector_number": "279",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://mrbluetie.github.io/sets/KEC-files/img/279_MX02 Sylvia, of the Old Ways.png"
+				"en": "https://mrbluetie.github.io/sets/KEC-files/img/0_MX02 Sylvia, of the Old Ways.png"
 			}
 		},
 		{
